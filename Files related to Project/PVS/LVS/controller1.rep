@@ -1,0 +1,28 @@
+			*****************************************************
+			**                                                 **
+			**                L V S  R E P O R T               **
+			**                                                 **
+			*****************************************************
+
+
+Report File Name         : controller1.rep
+ERC Summary File         : controller1.sum
+LVS Comparison Report    : controller1.rep.cls
+LVS Softchk Report       : controller1.softchk
+Layout Name              : /home/student/Downloads/HOPE_finalMBIST/PVS/LVS/controller1.gds.gz ("controller1")
+User Name                : student
+Creation Time            : Tue Nov 26 12:01:54 2024
+Current directory        : /home/student/Downloads/HOPE_finalMBIST/PVS/LVS
+PVS Version              : 22.20-p031 Thu Nov 17 19:06:38 PST 2022
+
+
+			*****************************************************
+			**                                                 **
+			**            D E V E X T  R E P O R T             **
+			**                                                 **
+			*****************************************************
+
+
+    LVS_SOFTCHK psubstrate -TYPE CONTACT   Total Result        0 (       0)
+    LVS_SOFTCHK nwell_conn -TYPE CONTACT   Total Result        0 (       0)
+    LVS_SOFTCHK Nburied -TYPE CONTACT   Total Result        0 (       0)

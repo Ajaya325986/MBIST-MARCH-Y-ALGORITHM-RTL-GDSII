@@ -1,0 +1,1 @@
+technology "gpdk090" -ruleSet "default" -techLib "/home/install/Physical_Verification/PVS_90nm/pvtech.lib";

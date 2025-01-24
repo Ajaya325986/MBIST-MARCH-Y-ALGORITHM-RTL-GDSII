@@ -1,0 +1,13 @@
+controller1
+
+controller1
+	CLKINVX1
+	AOI211XL
+	TBUFX1
+	FILL4
+	FILL2
+	FILL64
+	FILL32
+	FILL1
+	FILL16
+

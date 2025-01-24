@@ -1,0 +1,23 @@
+Checking out SoftShare license Phys_Ver_Sys_Results_Mgr 22.2 Qty: 1 ... failed.
+Checking out SoftShare license Pegasus_RV 22.1 Qty: 1 ... succeeded (1s).
+********************************************************************************
+pvstdb 22.20-p031 64 bit (Thu Nov 17 19:06:38 PST 2022)
+Build Ref No.: 031 Production (11-17-2022) [pvs_2220]
+
+Copyright 2022 Cadence Design Systems, Inc.
+All rights reserved worldwide.
+
+Build O/S:       Linux x86_64 3.10.0-693.el7.x86_64
+Executed on:     cad12 (Linux x86_64 4.18.0-425.3.1.el8.x86_64)
+Process Id:      26051
+Starting Time:   Tue Nov 26 11:59:39 2024 (Tue Nov 26 06:29:39 2024 GMT)
+With parameters: -sf /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/controller1.drc_errors.ascii.index /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/controller1.drc_errors.ascii /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/controller1.drc_errors.ascii.pvstdb 
+********************************************************************************
+
+Waiting for write lock on /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/controller1.drc_errors.ascii.index.
+Obtained lock.
+
+Summary: 0 markers created.
+
+pvstdb completed.
+Checking in SoftShare license Pegasus_RV ... succeeded (1s).

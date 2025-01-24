@@ -1,0 +1,22 @@
+# Format: clock  timeReq  slackR/slackF  setupR/setupF  instName/pinName   # cycle(s)
+clk(R)->clk(R)	9.656    6.552/*         0.344/*         CA_reg[0]/SE    1
+clk(R)->clk(R)	9.656    6.552/*         0.344/*         CA_reg[2]/SE    1
+clk(R)->clk(R)	9.656    6.552/*         0.344/*         CA_reg[1]/SE    1
+clk(R)->clk(R)	9.656    6.552/*         0.344/*         CA_reg[3]/SE    1
+clk(R)->clk(R)	9.715    6.864/*         0.285/*         we_reg/SE    1
+clk(R)->clk(R)	9.715    6.864/*         0.285/*         re_reg/SE    1
+clk(R)->clk(R)	9.740    6.963/*         0.260/*         datain_reg[0]/SE    1
+clk(R)->clk(R)	9.851    7.559/*         0.149/*         Test_reg/SN    1
+clk(R)->clk(R)	9.851    7.559/*         0.149/*         fresh_state_reg/SN    1
+clk(R)->clk(R)	9.776    9.273/*         0.224/*         fresh_state_reg/D    1
+clk(R)->clk(R)	9.829    */9.306         */0.171         Test_reg/D    1
+clk(R)->clk(R)	9.749    */9.384         */0.251         CA_reg[3]/D    1
+clk(R)->clk(R)	9.701    9.399/*         0.299/*         CA_reg[1]/D    1
+clk(R)->clk(R)	9.713    9.401/*         0.287/*         CA_reg[2]/D    1
+clk(R)->clk(R)	9.719    9.402/*         0.281/*         CA_reg[0]/D    1
+clk(R)->clk(R)	9.699    9.420/*         0.301/*         element_done_reg/D    1
+clk(R)->clk(R)	9.712    9.440/*         0.288/*         nextstate_reg[0]/D    1
+clk(R)->clk(R)	9.713    9.441/*         0.287/*         nextstate_reg[1]/D    1
+clk(R)->clk(R)	9.718    9.461/*         0.282/*         we_reg/D    1
+clk(R)->clk(R)	9.718    9.461/*         0.282/*         re_reg/D    1
+clk(R)->clk(R)	9.718    9.461/*         0.282/*         datain_reg[0]/D    1

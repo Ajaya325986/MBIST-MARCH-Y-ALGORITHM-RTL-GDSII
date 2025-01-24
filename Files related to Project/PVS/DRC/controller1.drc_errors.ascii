@@ -1,0 +1,3229 @@
+controller1 2000
+ogShape__106
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Bondpad 
+ogShape__107
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer CapMetal 
+ogShape__108
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Cont 
+ogShape__109
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer ESDdummy 
+ogShape__110
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer IND2dummy 
+ogShape__111
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer IND3dummy 
+ogShape__112
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer INDdummy 
+ogShape__113
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M1Resdum 
+ogShape__114
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M2Resdum 
+ogShape__115
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M3Resdum 
+ogShape__116
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M4Resdum 
+ogShape__117
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M5Resdum 
+ogShape__118
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M6Resdum 
+ogShape__119
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M7Resdum 
+ogShape__120
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M8Resdum 
+ogShape__121
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer M9Resdum 
+ogShape__122
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal1_d 
+ogShape__123
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal1_f 
+ogShape__124
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal1_n 
+ogShape__125
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal1_p 
+ogShape__126
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal1_slot 
+ogShape__127
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal2_d 
+ogShape__128
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal2_f 
+ogShape__129
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal2_n 
+ogShape__130
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal2_p 
+ogShape__131
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal2_slot 
+ogShape__132
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal3_d 
+ogShape__133
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal3_f 
+ogShape__134
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal3_n 
+ogShape__135
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal3_p 
+ogShape__136
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal3_slot 
+ogShape__137
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal4_d 
+ogShape__138
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal4_f 
+ogShape__139
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal4_n 
+ogShape__140
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal4_p 
+ogShape__141
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal4_slot 
+ogShape__142
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal5_d 
+ogShape__143
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal5_f 
+ogShape__144
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal5_n 
+ogShape__145
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal5_p 
+ogShape__146
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal5_slot 
+ogShape__147
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal6_d 
+ogShape__148
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal6_f 
+ogShape__149
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal6_n 
+ogShape__150
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal6_p 
+ogShape__151
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal6_slot 
+ogShape__152
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal7_d 
+ogShape__153
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal7_f 
+ogShape__154
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal7_n 
+ogShape__155
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal7_p 
+ogShape__156
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal7_slot 
+ogShape__157
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal8_d 
+ogShape__158
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal8_f 
+ogShape__159
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal8_n 
+ogShape__160
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal8_p 
+ogShape__161
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal8_slot 
+ogShape__162
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal9_d 
+ogShape__163
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal9_f 
+ogShape__164
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal9_n 
+ogShape__165
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal9_p 
+ogShape__166
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Metal9_slot 
+ogShape__167
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer NPNdummy 
+ogShape__168
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Nburied 
+ogShape__169
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Nhvt 
+ogShape__170
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Nimp 
+ogShape__171
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Nwell 
+ogShape__172
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Nzvt 
+ogShape__173
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Oxide 
+ogShape__174
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Oxide_thk 
+ogShape__175
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer PNPdummy 
+ogShape__176
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Phvt 
+ogShape__177
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Pimp 
+ogShape__178
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Poly 
+ogShape__179
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Psub 
+ogShape__180
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer ResWdum 
+ogShape__181
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Resdum 
+ogShape__182
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer SiProt 
+ogShape__183
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via1 
+ogShape__184
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via2 
+ogShape__185
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via3 
+ogShape__186
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via4 
+ogShape__187
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via5 
+ogShape__188
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via6 
+ogShape__189
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via7 
+ogShape__190
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridShapeErrors: off grid polygon on layer Via8 
+l__105
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Bondpad 
+l__106
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer CapMetal 
+l__107
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Cont 
+l__108
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer ESDdummy 
+l__109
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer IND2dummy 
+l__110
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer IND3dummy 
+l__111
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer INDdummy 
+l__112
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M1Resdum 
+l__113
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M2Resdum 
+l__114
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M3Resdum 
+l__115
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M4Resdum 
+l__116
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M5Resdum 
+l__117
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M6Resdum 
+l__118
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M7Resdum 
+l__119
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M8Resdum 
+l__120
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer M9Resdum 
+l__121
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal1_d 
+l__122
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal1_f 
+l__123
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal1_n 
+l__124
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal1_p 
+l__125
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal1_slot 
+l__126
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal2_d 
+l__127
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal2_f 
+l__128
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal2_n 
+l__129
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal2_p 
+l__130
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal2_slot 
+l__131
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal3_d 
+l__132
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal3_f 
+l__133
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal3_n 
+l__134
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal3_p 
+l__135
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal3_slot 
+l__136
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal4_d 
+l__137
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal4_f 
+l__138
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal4_n 
+l__139
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal4_p 
+l__140
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal4_slot 
+l__141
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal5_d 
+l__142
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal5_f 
+l__143
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal5_n 
+l__144
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal5_p 
+l__145
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal5_slot 
+l__146
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal6_d 
+l__147
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal6_f 
+l__148
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal6_n 
+l__149
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal6_p 
+l__150
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal6_slot 
+l__151
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal7_d 
+l__152
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal7_f 
+l__153
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal7_n 
+l__154
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal7_p 
+l__155
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal7_slot 
+l__156
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal8_d 
+l__157
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal8_f 
+l__158
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal8_n 
+l__159
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal8_p 
+l__160
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal8_slot 
+l__161
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal9_d 
+l__162
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal9_f 
+l__163
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal9_n 
+l__164
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal9_p 
+l__165
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Metal9_slot 
+l__166
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer NPNdummy 
+l__167
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Nburied 
+l__168
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Nhvt 
+l__169
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Nimp 
+l__170
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Nwell 
+l__171
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Nzvt 
+l__172
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Oxide 
+l__173
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Oxide_thk 
+l__174
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer PNPdummy 
+l__175
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Phvt 
+l__176
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Pimp 
+l__177
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Poly 
+l__178
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Psub 
+l__179
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer ResWdum 
+l__180
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Resdum 
+l__181
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer SiProt 
+l__182
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via1 
+l__183
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via2 
+l__184
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via3 
+l__185
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via4 
+l__186
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via5 
+l__187
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via6 
+l__188
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via7 
+l__189
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45 degree polygon on layer Via8 
+l__190
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Bondpad 
+l__191
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer CapMetal 
+l__192
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer ESDdummy 
+l__193
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer IND2dummy 
+l__194
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer IND3dummy 
+l__195
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer INDdummy 
+l__196
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M1Resdum 
+l__197
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M2Resdum 
+l__198
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M3Resdum 
+l__199
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M4Resdum 
+l__200
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M5Resdum 
+l__201
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M6Resdum 
+l__202
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M7Resdum 
+l__203
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M8Resdum 
+l__204
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer M9Resdum 
+l__205
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer NPNdummy 
+l__206
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Nhvt 
+l__207
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer PNPdummy 
+l__208
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Phvt 
+l__209
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Psub 
+l__210
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer ResWdum 
+l__211
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Resdum 
+NZVT.X.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.X.4: Only one Oxide region may be in an Nzvt region 
+BONDPAD.L.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.L.1: Bondpad length must be >= 68.0 um 
+NBL.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.X.1: Nburied must have an Nwell isolation ring 
+NHVT.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NHVT.X.1: Nhvt to Oxide enclosure must be == 0.0 on all sides 
+PHVT.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PHVT.X.1: Phvt to Oxide enclosure must be == 0.0 on all sides 
+BONDPAD.O.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 1 
+BONDPAD.O.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 2 
+BONDPAD.O.1__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 3 
+BONDPAD.O.1__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 4 
+BONDPAD.O.1__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 5 
+BONDPAD.O.1__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 6 
+BONDPAD.O.1__7
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 7 
+BONDPAD.O.1__8
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 8 
+l__341
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal1 
+l__342
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal2 
+l__343
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal3 
+l__344
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal4 
+l__345
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal5 
+l__346
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal6 
+l__347
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal7 
+l__348
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal8 
+l__349
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+acute angle on layer Metal9 
+BONDPAD.O.1__9
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.1: Bondpads must contain Metal 9 
+NZVT.O.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.O.1: Nzvt to Oxide enclosure must be == 0.3 
+BONDPAD.O.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal1/Metal2 intersection must contain Via 1 
+BONDPAD.O.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal2/Metal3 intersection must contain Via 2 
+BONDPAD.O.2__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal3/Metal4 intersection must contain Via 3 
+BONDPAD.O.2__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal4/Metal5 intersection must contain Via 4 
+BONDPAD.O.2__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal5/Metal6 intersection must contain Via 5 
+BONDPAD.O.2__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal6/Metal7 intersection must contain Via 6 
+BONDPAD.O.2__7
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal7/Metal8 intersection must contain Via 7 
+BONDPAD.O.2__8
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.O.2: Bondpad Metal8/Metal9 intersection must contain Via 8 
+POLY.SE.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.SE.3: Poly width, between two contacts spaced > 25.0um, must be >= 0.14um 
+BONDPAD.SP.5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal1 slot to Bondpad Metal1 slot spacing must be == 1.50 
+BONDPAD.W.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal1 slot width must be == 1.00 
+BONDPAD.R.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via1 inside Metal1 to Metal2 crossing must be >= 16.0 
+BONDPAD.SP.5__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal2 slot to Bondpad Metal2 slot spacing must be == 1.50 
+BONDPAD.W.4__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal2 slot width must be == 1.00 
+BONDPAD.R.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via2 inside Metal2 to Metal3 crossing must be >= 16.0 
+BONDPAD.SP.5__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal3 slot to Bondpad Metal3 slot spacing must be == 1.50 
+BONDPAD.W.4__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal3 slot width must be == 1.00 
+BONDPAD.R.1__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via3 inside Metal3 to Metal4 crossing must be >= 16.0 
+BONDPAD.SP.5__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal4 slot to Bondpad Metal4 slot spacing must be == 1.50 
+BONDPAD.W.4__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal4 slot width must be == 1.00 
+BONDPAD.R.1__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via4 inside Metal4 to Metal5 crossing must be >= 16.0 
+BONDPAD.SP.5__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal5 slot to Bondpad Metal5 slot spacing must be == 1.50 
+BONDPAD.W.4__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal5 slot width must be == 1.00 
+BONDPAD.R.1__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via5 inside Metal5 to Metal6 crossing must be >= 16.0 
+BONDPAD.SP.5__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal6 slot to Bondpad Metal6 slot spacing must be == 1.50 
+BONDPAD.W.4__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal6 slot width must be == 1.00 
+BONDPAD.R.1__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via6 inside Metal6 to Metal7 crossing must be >= 16.0 
+BONDPAD.SP.5__7
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal7 slot to Bondpad Metal7 slot spacing must be == 1.50 
+BONDPAD.W.4__7
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal7 slot width must be == 1.00 
+BONDPAD.R.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.2: Minimum Bondpad Via7 inside Metal7 to Metal8 crossing must be >= 4.0 
+BONDPAD.SP.5__8
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal8 slot to Bondpad Metal8 slot spacing must be == 1.50 
+BONDPAD.W.4__8
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal8 slot width must be == 1.00 
+BONDPAD.R.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.R.2: Minimum Bondpad Via8 inside Metal8 to Metal9 crossing must be >= 4.0 
+OXIDE.L.1_OXIDE.L.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.L.1_OXIDE.L.2: Maximum Oxide length between two contacts (when the Oxide width is <= 0.18um) must be <= 22.0um and Maximum Oxide length between one contact and the end of the Oxide line (when the Oxide width is <= 0.18um) must be <= 11.0um 
+BONDPAD.W.5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal1 outside Metal1 ring width must be == 5.00 
+BONDPAD.W.5__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal2 outside Metal2 ring width must be == 5.00 
+BONDPAD.W.5__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal3 outside Metal3 ring width must be == 5.00 
+BONDPAD.W.5__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal4 outside Metal4 ring width must be == 5.00 
+BONDPAD.W.5__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal5 outside Metal5 ring width must be == 5.00 
+BONDPAD.W.5__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal6 outside Metal6 ring width must be == 5.00 
+BONDPAD.W.5__7
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal7 outside Metal7 ring width must be == 5.00 
+BONDPAD.W.5__8
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal8 outside Metal8 ring width must be == 5.00 
+VIA1.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.X.1: Metal1 must connect to Metal2 with >= 2 Via1 spaced < 0.30 um or >= 4 Via1 spaced < 0.60 um 
+VIA2.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.X.1: Metal2 must connect to Metal3 with >= 2 Via2 spaced < 0.30 um or >= 4 Via2 spaced < 0.60 um 
+VIA3.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.X.1: Metal3 must connect to Metal4 with >= 2 Via3 spaced < 0.30 um or >= 4 Via3 spaced < 0.60 um 
+VIA4.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.X.1: Metal4 must connect to Metal5 with >= 2 Via4 spaced < 0.30 um or >= 4 Via4 spaced < 0.60 um 
+VIA5.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.X.1: Metal5 must connect to Metal6 with >= 2 Via5 spaced < 0.30 um or >= 4 Via5 spaced < 0.60 um 
+VIA6.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.X.1: Metal6 must connect to Metal7 with >= 2 Via6 spaced < 0.30 um or >= 4 Via6 spaced < 0.60 um 
+BONDPAD.B.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal1 must have bevelled corners 
+BONDPAD.B.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal2 must have bevelled corners 
+BONDPAD.B.1__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal3 must have bevelled corners 
+BONDPAD.B.1__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal4 must have bevelled corners 
+BONDPAD.B.1__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal5 must have bevelled corners 
+BONDPAD.B.1__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal6 must have bevelled corners 
+BONDPAD.B.1__7
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal7 must have bevelled corners 
+BONDPAD.B.1__8
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal8 must have bevelled corners 
+BONDPAD.B.1__9
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal9 must have bevelled corners 
+NBL.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.E.1: Nburied to Nwell enclosure must be >= 0.4 um 
+NBL.SE.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SE.2: Nburied to Oxide spacing must be >= 2.2 um 
+NBL.SE.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SE.2: Nburied to Oxide spacing must be >= 2.2 um 
+NBL.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SE.1: Nburied to non-related Nwell spacing must be >= 4.4 um 
+NBL.SE.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SE.3: Nwell ring (on Nburied) to P+ Oxide spacing must be >= 0.5 um 
+NBL.SE.3__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SE.3: Nwell ring (on Nburied) to P+ Oxide spacing must be >= 0.5 um 
+NBL.SE.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SE.4: Nwell ring (on Nburied) to N+ Oxide spacing must be >= 0.4 um 
+NBL.SE.4__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SE.4: Nwell ring (on Nburied) to N+ Oxide spacing must be >= 0.4 um 
+NW.SP.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SP.2: Nwell to Nwell spacing (diferent potential) must be >= 1.2 um 
+NW.SP.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SP.2: Nwell to Nwell spacing (diferent potential) must be >= 1.2 um 
+NW.SP.2__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SP.2: Nwell to Nwell spacing (diferent potential) must be >= 1.2 um 
+NW.W.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.W.1: Nwell width must be >= 0.6 um 
+NW.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SE.1: Nwell to Oxide spacing must be >= 0.3 um 
+NW.SE.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SE.2: Nwell to P+ Oxide spacing must be >= 0.3 um 
+NW.SE.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SE.2: Nwell to P+ Oxide spacing must be >= 0.3 um 
+NW.SE.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SE.3: Nwell to N+ 2.5V Oxide spacing must be >= 0.5 um 
+NW.SE.3__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SE.3: Nwell to N+ 2.5V Oxide spacing must be >= 0.5 um 
+NW.SE.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SE.4: Nwell to P+ 2.5V Oxide spacing must be >= 0.5 um 
+NW.SE.4__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SE.4: Nwell to P+ 2.5V Oxide spacing must be >= 0.5 um 
+NW.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.E.1: Nwell to N+ Oxide enclosure must be >= 0.12 um 
+NW.E.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.E.2: Nwell to P+ Oxide enclosure must be >= 0.12 um 
+NW.E.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.E.2: Nwell to P+ Oxide enclosure must be >= 0.12 um 
+NW.E.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.E.3: Nwell to N+ 2.5V Oxide enclosure must be >= 0.7 um 
+NW.E.3__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.E.3: Nwell to N+ 2.5V Oxide enclosure must be >= 0.7 um 
+NW.E.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.E.4: Nwell to P+ 2.5V Oxide enclosure must be >= 0.7 um 
+NW.E.4__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.E.4: Nwell to P+ 2.5V Oxide enclosure must be >= 0.7 um 
+NWR.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NWR.SE.1: Nwell (in resistor) to SiProt spacing must be >= 0.32 um 
+NWR.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NWR.E.1: Oxide to Nwell (in resistor) enclosure must be >= 1.2 um 
+NWR.E.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NWR.E.1: Oxide to Nwell (in resistor) enclosure must be >= 1.2 um 
+NWR.E.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NWR.E.2: Nwell (in resistor) to Cont enclosure must be >= 0.32 um 
+NWR.E.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NWR.E.2: Nwell (in resistor) to Cont enclosure must be >= 0.32 um 
+NWR.O.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NWR.O.1: SiProt to Nimp overlap must be >= 0.45 um 
+NWR.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NWR.X.1: Thick Oxide is NOT allowed over Nwell resistor 
+OXIDE.W.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.W.1: Oxide width must be >= 0.1 um 
+OXIDE.W.2.1.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.W.2.1.1: 1.2V N-channel gate width must be >= 0.12 um 
+OXIDE.W.2.1.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.W.2.1.2: 2.5V N-channel gate width must be >= 0.15 um 
+OXIDE.W.2.2.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.W.2.2.1: 1.2V P-channel gate width must be >= 0.12 um 
+OXIDE.W.2.2.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.W.2.2.2: 2.5V P-channel gate width must be >= 0.15 um 
+OXIDE.W.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.W.3: Oxide (45 degree) width must be >= 0.13 um 
+OXIDE.SP.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.SP.2: P+ Oxide to P+ Oxide spacing must be >= 0.15 um 
+OXIDE.SP.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.SP.3: P+ Oxide to P+ Oxide spacing must be >= 0.15 um 
+OXIDE.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.SE.1: Oxide to Oxide_thk spacing must be >= 0.28 um 
+OXIDE.SP.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.SP.4: Oxide bent 45 degree to Oxide spacing must be >= 0.18 um 
+OXIDE.EA.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.EA.1: Oxide enclosed area must be >= 0.10 um 
+OXIDE.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDE.X.1: Oxide must be covered by Nimp or Pimp or Nzvt 
+OXIDER.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.SE.1: SiProt to Oxide resistor Cont spacing must be >= 0.24 um 
+OXIDER.SE.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.SE.1: SiProt to Oxide resistor Cont spacing must be >= 0.24 um 
+OXIDER.SE.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.SE.2: Oxide resistor to Nimp spacing must be >= 0.3 um 
+OXIDER.SE.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.SE.2: Oxide resistor to Nimp spacing must be >= 0.3 um 
+OXIDER.SE.2__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.SE.2: Oxide resistor to Pimp spacing must be >= 0.3 um 
+OXIDER.SE.2__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.SE.2: Oxide resistor to Pimp spacing must be >= 0.3 um 
+OXIDER.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.E.1: SiProt to Oxide resistor enclosure must be >= 0.25 um 
+OXIDER.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.X.1: Oxide resistors must have N+ or P+ Implant 
+OXIDETHK.W.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.W.1: Oxide_thk width must be >= 0.7 um 
+OXIDETHK.SP.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.SP.1: Oxide_thk to Oxide_thk spacing must be >= 0.35 um 
+OXIDETHK.SP.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.SP.2: Oxide_thk (bent 45 degree) to Oxide_thk spacing must be >= 0.75 um 
+OXIDETHK.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.SE.1: 2.5V N+ Oxide to 2.5V N+ Oxide spacing must be >= 0.20 um 
+OXIDETHK.SE.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.SE.2: 2.5V P+ Oxide to 2.5V P+ Oxide spacing must be >= 0.20 um 
+OXIDETHK.SE.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.SE.3: 2.5V N+ Oxide to 2.5V P+ Oxide spacing must be >= 0.25 um 
+OXIDETHK.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.E.1: Oxide_thk to Oxide enclosure must be >= 0.30 um 
+OXIDETHK.SE.5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.SE.5: Oxide_thk to Poly gate spacing must be >= 0.34 um 
+OXIDETHK.SE.5__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.SE.5: Oxide_thk to Poly gate spacing must be >= 0.34 um 
+OXIDETHK.E.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDETHK.E.2: Oxide_thk to Poly gate enclosure must be >= 0.36 um 
+NHVT.X.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NHVT.X.2: Nhvt is NOT allowed on Nwell 
+NHVT.X.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NHVT.X.3: Nhvt is NOT allowed on P+ Oxide 
+NHVT.X.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NHVT.X.4: Nhvt is NOT allowed on Nzvt 
+PHVT.X.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PHVT.X.2: Phvt is NOT allowed outside Nwell 
+PHVT.X.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PHVT.X.3: Phvt is NOT allowed on N+ Oxide 
+PHVT.X.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PHVT.X.4: Phvt is NOT allowed on Nzvt 
+NZVT.W.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.W.1: Nzvt width must be >= 0.7 um 
+NZVT.SP.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.SP.1: Nzvt to Nzvt spacing must be >= 0.6 um 
+NZVT.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.SE.1: Nzvt to Oxide spacing must be >= 0.28 um 
+NZVT.SE.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.SE.1: Nzvt to Oxide spacing must be >= 0.28 um 
+NZVT.SE.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.SE.2: Nzvt to Nwell spacing must be >= 1.2 um 
+NZVT.SE.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.SE.2: Nzvt to Nwell spacing must be >= 1.2 um 
+NZVT.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.E.1: Poly to Oxide enclosure must be >= 0.2 um 
+NZVT.L.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.L.1: Native Device Poly gate length must be >= 0.9 um 
+NZVT.W.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.W.2: Native Device Poly gate width must be >= 0.65 um 
+NZVT.X.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NZVT.X.3: P+ Oxide is NOT allowed in Nzvt 
+POLY.W.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.W.1: 1.2V N+ Poly gate length must be >= 0.1 um 
+POLY.W.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.W.2: 1.2V P+ Poly gate length must be >= 0.1 um 
+POLY.W.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.W.3: 2.5V N+ Poly gate length must be >= 0.28 um 
+POLY.W.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.W.4: 2.5V P+ Poly gate length must be >= 0.28 um 
+POLY.W.5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.W.5: Poly interconnect width must be >= 0.1 um 
+POLY.SP.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.SP.1: Poly resistor to Poly resistor spacing must be >= 0.6 um 
+POLY.SP.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.SP.2: Poly gate to Poly gate spacing must be >= 0.12 um 
+POLY.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.E.1: Poly to N+ Oxide enclosure must be >= 0.08 um 
+POLY.E.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.E.2: Poly to P+ Oxide enclosure must be >= 0.08 um 
+POLY.SE.1_POLY.SE.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.SE.1_POLY.SE.2: Poly to Oxide spacing must be >= 0.1 um 
+POLY.E.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.E.3: Oxide to Poly enclosure must be >= 0.2 um 
+POLY.W.6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.W.6: Bent Poly width must be >= 0.18 um 
+POLY.SP.4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.SP.4: Bent Poly to bent Poly spacing must be >= 0.22 um 
+POLY.A.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLY.A.1: Poly area must be >= 0.1 um 
+POLYR.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.1: SiProt to Poly resistor Cont spacing must be >= 0.24 um 
+POLYR.SE.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.1: SiProt to Poly resistor Cont spacing must be >= 0.24 um 
+POLYR.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.E.1: SiProt to Poly resistor enclosure must be >= 0.28 um 
+POLYR.E.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.E.2: Nimp to Poly used in resistor enclosure must be >= 0.15 um 
+POLYR.E.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.E.2: Nimp to Poly used in resistor enclosure must be >= 0.15 um 
+POLYR.E.3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.E.3: Pimp to Poly used in resistor enclosure must be >= 0.15 um 
+POLYR.E.3__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.E.3: Pimp to Poly used in resistor enclosure must be >= 0.15 um 
+POLYR.SE.2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.2: Poly resistor to Nimp spacing must be >= 0.3 um 
+POLYR.SE.2__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.2: Poly resistor to Nimp spacing must be >= 0.3 um 
+POLYR.SE.2__3
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.2: Poly resistor to Nzvt spacing must be >= 0.3 um 
+POLYR.SE.2__4
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.2: Poly resistor to Nzvt spacing must be >= 0.3 um 
+POLYR.SE.2__5
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.2: Poly resistor to Pimp spacing must be >= 0.3 um 
+POLYR.SE.2__6
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.SE.2: Poly resistor to Pimp spacing must be >= 0.3 um 
+POLYR.X.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.X.1: Poly resistors must have N+ or P+ Implant 
+NIMP.W.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.W.1: Nimp width must be >= 0.24 um 
+NIMP.SP.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.SP.1: Nimp to Nimp spacing must be >= 0.24 um 
+NIMP.E.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.E.1: Nimp to Oxide enclosure must be >= 0.14 um 
+NIMP.O.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.O.1: Nimp to Oxide overlap must be >= 0.16 um 
+NIMP.SE.1
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.SE.1: Nimp to P+ Oxide spacing must be >= 0.16 um 
+NIMP.SE.1__2
+0 0 2 Nov 26 11:59:36 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.SE.1: Nimp to P+ Oxide spacing must be >= 0.16 um 
+NIMP.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.E.2: Nimp to Oxide (Nwell tie) enclosure must be >= 0.02 um 
+NIMP.E.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.E.3: Nimp to Poly gate enclosure must be >= 0.18 um 
+NIMP.E.4__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.E.4: Nimp to gate end enclosure must be >= 0.18 um 
+NIMP.SE.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.SE.2: Nimp to P+ Oxide spacing must be >= 0.02 um 
+NIMP.SE.2__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.SE.2: Nimp to P+ Oxide spacing must be >= 0.02 um 
+NIMP.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.A.1: Nimp area must be >= 0.15 um 
+NIMP.EA.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.EA.1: Area in Nimp ring must be >= 0.16 um 
+NIMP.SE.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.SE.3: Nimp to P+ gate spacing must be >= 0.18 um 
+NIMP.SE.3__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.SE.3: Nimp to P+ gate spacing must be >= 0.18 um 
+NIMP.X.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NIMP.X.1: Nimp is NOT allowed over Pimp 
+PIMP.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.W.1: Pimp width must be >= 0.24 um 
+PIMP.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.SP.1: Pimp to Pimp spacing must be >= 0.24 um 
+PIMP.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.E.1: Pimp to Oxide enclosure must be >= 0.06 um 
+PIMP.O.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.O.1: Pimp to Oxide overlap must be >= 0.16 um 
+PIMP.SE.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.SE.1: Pimp to N+ Oxide spacing must be >= 0.16 um 
+PIMP.SE.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.SE.1: Pimp to N+ Oxide spacing must be >= 0.06 um 
+PIMP.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.E.2: Pimp to Oxide (substrate tie) enclosure must be >= 0.02 um 
+PIMP.E.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.E.3: Pimp to Poly gate enclosure must be >= 0.18 um 
+PIMP.E.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.E.4: Pimp to gate end enclosure must be >= 0.18 um 
+PIMP.E.4__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.E.4: Pimp to gate end enclosure must be >= 0.18 um 
+PIMP.SE.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.SE.2: Pimp to N+ Oxide spacing must be >= 0.02 um 
+PIMP.SE.2__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.SE.2: Pimp to N+ Oxide spacing must be >= 0.02 um 
+PIMP.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.A.1: Pimp area must be >= 0.15 um 
+PIMP.EA.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.EA.1: Area in Pimp ring must be >= 0.16 um 
+PIMP.SE.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.SE.3: Pimp to N+ gate spacing must be >= 0.18 um 
+PIMP.SE.3__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+PIMP.SE.3: Pimp to N+ gate spacing must be >= 0.18 um 
+METAL1.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.SP.1.1: Metal1 to Metal1 spacing must be >= 0.12 um 
+CONT.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SP.1: Cont to Cont spacing must be >= 0.14 um 
+CONT.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SP.2: Cont to Cont (in array) spacing must be >= 0.16 um 
+CONT.SE.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.1: Cont to gate spacing must be >= 0.10 um 
+CONT.SE.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.1: Cont to gate spacing must be >= 0.10 um 
+CONT.SE.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.2: Cont to 2.5V gate spacing must be >= 0.12 um 
+CONT.SE.2__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.2: Cont to 2.5V gate spacing must be >= 0.12 um 
+CONT.SE.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.3: Poly Cont to Oxide spacing must be >= 0.12 um 
+CONT.SE.3__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.3: Poly Cont to Oxide spacing must be >= 0.12 um 
+CONT.SE.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.4: Poly Cont to Oxide spacing must be >= 0.14 um 
+CONT.SE.4__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.SE.4: Poly Cont to Oxide spacing must be >= 0.14 um 
+CONT.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.1: Oxide to Cont enclosure must be >= 0.00 um 
+CONT.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.1: Oxide to Cont enclosure must be >= 0.005 um 
+CONT.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.2: Poly to Cont enclosure must be >= 0.04 um 
+CONT.E.2__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.2: Poly to Cont enclosure must be >= 0.04 um 
+CONT.E.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.3: Poly to Cont enclosure on at least two opposite sides must be >= 0.06 um 
+CONT.E.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.4: Nimp to Cont enclosure must be >= 0.06 um 
+CONT.E.4__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.4: Nimp to Cont enclosure must be >= 0.06 um 
+CONT.E.4__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.4: Pimp to Cont enclosure must be >= 0.06 um 
+CONT.E.4__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.E.4: Pimp to Cont enclosure must be >= 0.06 um 
+CONT.X.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.X.1: Cont on gate is NOT allowed 
+CONT.X.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.X.2: Nimp edge is NOT allowed on Oxide Cont 
+CONT.X.2__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.X.2: Pimp edge is NOT allowed on Oxide Cont 
+CONT.X.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+CONT.X.3: Cont must be covered by Oxide or Poly 
+SIPROT.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.W.1: SiProt width must be >= 0.44 um 
+SIPROT.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.SP.1: SiProt to SiProt spacing must be >= 0.44 um 
+SIPROT.SE.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.SE.1: SiProt to Cont spacing must be >= 0.24 um 
+SIPROT.SE.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.SE.1: SiProt to Cont spacing must be >= 0.24 um 
+SIPROT.SE.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.SE.2: SiProt to Oxide spacing must be >= 0.24 um 
+SIPROT.SE.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.SE.3: SiProt to Poly gate spacing must be >= 0.44 um 
+SIPROT.SE.3__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.SE.3: SiProt to Poly gate spacing must be >= 0.44 um 
+SIPROT.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.E.2: Oxide to SiProt enclosure must be >= 0.24 um 
+SIPROT.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.E.1: SiProt to Oxide enclosure must be >= 0.25 um 
+SIPROT.E.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.E.3: SiProt to Poly enclosure must be >= 0.28 um 
+SIPROT.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.A.1: SiProt area must be >= 1.2 um 
+SIPROT.SE.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.SE.4: SiProt to Poly (on field) spacing must be >= 0.35 um 
+SIPROT.EA.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+SIPROT.EA.1: Area in SiProt ring must be >= 1.2 um 
+METAL2.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.E.1: Metal2 to Via1 enclosure must be >= 0.005 um 
+METAL2.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.E.1: Metal2 to Via1 enclosure must be >= 0.005 um 
+METAL2.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.E.2: Metal2 to Via1 enclosure on opposite sides must be >= 0.06 um 
+METAL3.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.E.1: Metal3 to Via2 enclosure must be >= 0.005 um 
+METAL3.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.E.1: Metal3 to Via2 enclosure must be >= 0.005 um 
+METAL3.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.E.2: Metal3 to Via2 enclosure on opposite sides must be >= 0.06 um 
+METAL4.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.E.1: Metal4 to Via3 enclosure must be >= 0.005 um 
+METAL4.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.E.1: Metal4 to Via3 enclosure must be >= 0.005 um 
+METAL4.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.E.2: Metal4 to Via3 enclosure on opposite sides must be >= 0.06 um 
+METAL5.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.E.1: Metal5 to Via4 enclosure must be >= 0.005 um 
+METAL5.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.E.1: Metal5 to Via4 enclosure must be >= 0.005 um 
+METAL5.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.E.2: Metal5 to Via4 enclosure on opposite sides must be >= 0.06 um 
+METAL6.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.E.1: Metal6 to Via5 enclosure must be >= 0.005 um 
+METAL6.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.E.1: Metal6 to Via5 enclosure must be >= 0.005 um 
+METAL6.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.E.2: Metal6 to Via5 enclosure on opposite sides must be >= 0.06 um 
+METAL7.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.E.1: Metal7 to Via6 enclosure must be >= 0.005 um 
+METAL7.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.E.1: Metal7 to Via6 enclosure must be >= 0.005 um 
+METAL7.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.E.2: Metal7 to Via6 enclosure on opposite sides must be >= 0.06 um 
+METAL8.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.E.1: Metal8 to Via7 enclosure must be >= 0.05 um 
+METAL8.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.E.1: Metal8 to Via7 enclosure must be >= 0.05 um 
+METAL8.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.E.2: Metal8 to Via7 enclosure on opposite sides must be >= 0.1 um 
+METAL9.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.E.1: Metal9 to Via8 enclosure must be >= 0.05 um 
+METAL9.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.E.1: Metal9 to Via8 enclosure must be >= 0.05 um 
+METAL9.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.E.2: Metal9 to Via8 enclosure on opposite sides must be >= 0.1 um 
+METAL1.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.E.1: Metal1 to Cont enclosure must be >= 0.00 um 
+METAL1.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.E.2: Metal1 to Cont enclosure on opposite sides must be >= 0.06 um 
+METAL1.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.W.1: Metal1 width must be >= 0.12 um 
+METAL2.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.W.1: Metal2 width must be >= 0.1 um 
+METAL3.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.W.1: Metal3 width must be >= 0.12 um 
+METAL4.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.W.1: Metal4 width must be >= 0.14 um 
+METAL5.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.W.1: Metal5 width must be >= 0.14 um 
+METAL6.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.W.1: Metal6 width must be >= 0.14 um 
+METAL7.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.W.1: Metal7 width must be >= 0.14 um 
+METAL8.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.W.1: Metal8 width must be >= 0.44 um 
+METAL9.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.W.1: Metal9 width must be >= 0.44 um 
+METAL1.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.W.2: Metal1 width must be <= 12.0 um 
+METAL2.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.W.2: Metal2 width must be <= 12.0 um 
+METAL3.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.W.2: Metal3 width must be <= 12.0 um 
+METAL4.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.W.2: Metal4 width must be <= 12.0 um 
+METAL5.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.W.2: Metal5 width must be <= 12.0 um 
+METAL6.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.W.2: Metal6 width must be <= 12.0 um 
+METAL7.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.W.2: Metal7 width must be <= 12.0 um 
+METAL8.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.W.2: Metal8 width must be <= 12.0 um 
+METAL9.W.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.W.2: Metal9 width must be <= 12.0 um 
+METAL2.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.SP.1.1: Metal2 to Metal2 spacing must be >= 0.14 um 
+METAL3.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.SP.1.1: Metal3 to Metal3 spacing must be >= 0.10 um 
+METAL4.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.SP.1.1: Metal4 to Metal4 spacing must be >= 0.14 um 
+METAL5.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.SP.1.1: Metal5 to Metal5 spacing must be >= 0.14 um 
+METAL6.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.SP.1.1: Metal6 to Metal6 spacing must be >= 0.14 um 
+METAL7.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.SP.1.1: Metal7 to Metal7 spacing must be >= 0.14 um 
+METAL8.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.SP.1.1: Metal8 to Metal8 spacing must be >= 0.40 um 
+METAL9.SP.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.SP.1.1: Metal9 to Metal9 spacing must be >= 0.40 um 
+METAL1.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.SP.1.2: Metal1 to Metal1 spacing must be >= 0.18 um 
+METAL2.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.SP.1.2: Metal2 to Metal2 spacing must be >= 0.20 um 
+METAL3.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.SP.1.2: Metal3 to Metal3 spacing must be >= 0.20 um 
+METAL4.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.SP.1.2: Metal4 to Metal4 spacing must be >= 0.20 um 
+METAL5.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.SP.1.2: Metal5 to Metal5 spacing must be >= 0.20 um 
+METAL6.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.SP.1.2: Metal6 to Metal6 spacing must be >= 0.20 um 
+METAL7.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.SP.1.2: Metal7 to Metal7 spacing must be >= 0.20 um 
+METAL1.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.SP.1.3: Metal1 to Metal1 spacing must be >= 0.50 um 
+METAL2.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.SP.1.3: Metal2 to Metal2 spacing must be >= 0.50 um 
+METAL3.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.SP.1.3: Metal3 to Metal3 spacing must be >= 0.50 um 
+METAL4.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.SP.1.3: Metal4 to Metal4 spacing must be >= 0.50 um 
+METAL5.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.SP.1.3: Metal5 to Metal5 spacing must be >= 0.50 um 
+METAL6.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.SP.1.3: Metal6 to Metal6 spacing must be >= 0.50 um 
+METAL7.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.SP.1.3: Metal7 to Metal7 spacing must be >= 0.50 um 
+METAL8.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.SP.1.2: Metal8 to Metal8 spacing must be >= 0.50 um 
+METAL9.SP.1.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.SP.1.2: Metal9 to Metal9 spacing must be >= 0.50 um 
+METAL1.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.SP.1.4: Metal1 to Metal1 spacing must be >= 0.90 um 
+METAL2.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.SP.1.4: Metal2 to Metal2 spacing must be >= 0.90 um 
+METAL3.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.SP.1.4: Metal3 to Metal3 spacing must be >= 0.90 um 
+METAL4.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.SP.1.4: Metal4 to Metal4 spacing must be >= 0.90 um 
+METAL5.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.SP.1.4: Metal5 to Metal5 spacing must be >= 0.90 um 
+METAL6.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.SP.1.4: Metal6 to Metal6 spacing must be >= 0.90 um 
+METAL7.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.SP.1.4: Metal7 to Metal7 spacing must be >= 0.90 um 
+METAL8.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.SP.1.3: Metal8 to Metal8 spacing must be >= 0.90 um 
+METAL9.SP.1.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.SP.1.3: Metal9 to Metal9 spacing must be >= 0.90 um 
+METAL1.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.SP.1.5: Metal1 to Metal1 spacing must be >= 1.50 um 
+METAL2.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.SP.1.5: Metal2 to Metal2 spacing must be >= 1.50 um 
+METAL3.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.SP.1.5: Metal3 to Metal3 spacing must be >= 1.50 um 
+METAL4.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.SP.1.5: Metal4 to Metal4 spacing must be >= 1.50 um 
+METAL5.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.SP.1.5: Metal5 to Metal5 spacing must be >= 1.50 um 
+METAL6.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.SP.1.5: Metal6 to Metal6 spacing must be >= 1.50 um 
+METAL7.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.SP.1.5: Metal7 to Metal7 spacing must be >= 1.50 um 
+METAL8.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.SP.1.4: Metal8 to Metal8 spacing must be >= 1.50 um 
+METAL9.SP.1.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.SP.1.4: Metal9 to Metal9 spacing must be >= 1.50 um 
+METAL1.SP.1.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.SP.1.6: Metal1 to Metal1 spacing must be >= 2.50 um 
+METAL2.SP.1.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.SP.1.6: Metal2 to Metal2 spacing must be >= 2.50 um 
+METAL3.SP.1.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.SP.1.6: Metal3 to Metal3 spacing must be >= 2.50 um 
+METAL4.SP.1.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.SP.1.6: Metal4 to Metal4 spacing must be >= 2.50 um 
+METAL5.SP.1.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.SP.1.6: Metal5 to Metal5 spacing must be >= 2.50 um 
+METAL6.SP.1.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.SP.1.6: Metal6 to Metal6 spacing must be >= 2.50 um 
+METAL7.SP.1.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.SP.1.6: Metal7 to Metal7 spacing must be >= 2.50 um 
+METAL8.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.SP.1.5: Metal8 to Metal8 spacing must be >= 2.50 um 
+METAL9.SP.1.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.SP.1.5: Metal9 to Metal9 spacing must be >= 2.50 um 
+METAL1.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.L.1: Metal1 non-90 degree segments must be >= 0.18 um 
+METAL2.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.L.1: Metal2 non-90 degree segments must be >= 0.20 um 
+METAL3.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.L.1: Metal3 non-90 degree segments must be >= 0.20 um 
+METAL4.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.L.1: Metal4 non-90 degree segments must be >= 0.20 um 
+METAL5.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.L.1: Metal5 non-90 degree segments must be >= 0.20 um 
+METAL6.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.L.1: Metal6 non-90 degree segments must be >= 0.20 um 
+METAL7.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.L.1: Metal7 non-90 degree segments must be >= 0.20 um 
+METAL1.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.SP.2: Metal1 to bent Metal1 spacing must be >= 0.16 um 
+METAL1.W.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL1.W.3: Bent Metal1 (45 degree angle) width must be >= 0.14 
+METAL2.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.SP.2: Metal2 to bent Metal2 spacing must be >= 0.18 um 
+METAL2.W.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL2.W.3: Bent Metal2 (45 degree angle) width must be >= 0.16 
+METAL3.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.SP.2: Metal3 to bent Metal3 spacing must be >= 0.18 um 
+METAL3.W.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.W.3: Bent Metal3 (45 degree angle) width must be >= 0.16 
+METAL4.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.SP.2: Metal4 to bent Metal4 spacing must be >= 0.18 um 
+METAL4.W.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.W.3: Bent Metal4 (45 degree angle) width must be >= 0.16 
+METAL5.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.SP.2: Metal5 to bent Metal5 spacing must be >= 0.18 um 
+METAL5.W.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.W.3: Bent Metal5 (45 degree angle) width must be >= 0.16 
+METAL6.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.SP.2: Metal6 to bent Metal6 spacing must be >= 0.18 um 
+METAL6.W.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.W.3: Bent Metal6 (45 degree angle) width must be >= 0.16 
+METAL7.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.SP.2: Metal7 to bent Metal7 spacing must be >= 0.18 um 
+METAL7.W.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.W.3: Bent Metal7 (45 degree angle) width must be >= 0.16 
+METAL3.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL3.A.1: Metal3 area must be >= 0.08 um 
+METAL4.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL4.A.1: Metal4 area must be >= 0.08 um 
+METAL5.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL5.A.1: Metal5 area must be >= 0.08 um 
+METAL6.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL6.A.1: Metal6 area must be >= 0.08 um 
+METAL7.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL7.A.1: Metal7 area must be >= 0.08 um 
+METAL8.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL8.A.1: Metal8 area must be >= 0.2 um 
+METAL9.A.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+METAL9.A.1: Metal9 area must be >= 0.2 um 
+VIA1.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.W.1: Via1 shapes must be 0.14x0.14 rectangles 
+VIA1.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.SP.1: Via1 to Via1 spacing must be >= 0.15 um 
+VIA1.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.SP.2: Via1 to Via1 spacing must be >= 0.20 um 
+VIA2.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.W.1: Via2 shapes must be 0.14x0.14 rectangles 
+VIA2.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.SP.1: Via2 to Via2 spacing must be >= 0.05 um 
+VIA2.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.SP.2: Via2 to Via2 spacing must be >= 0.20 um 
+VIA3.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.W.1: Via3 shapes must be 0.14x0.14 rectangles 
+VIA3.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.SP.1: Via3 to Via3 spacing must be >= 0.15 um 
+VIA3.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.SP.2: Via3 to Via3 spacing must be >= 0.20 um 
+VIA4.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.W.1: Via4 shapes must be 0.14x0.14 rectangles 
+VIA4.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.SP.1: Via4 to Via4 spacing must be >= 0.15 um 
+VIA4.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.SP.2: Via4 to Via4 spacing must be >= 0.20 um 
+VIA5.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.W.1: Via5 shapes must be 0.14x0.14 rectangles 
+VIA5.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.SP.1: Via5 to Via5 spacing must be >= 0.15 um 
+VIA5.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.SP.2: Via5 to Via5 spacing must be >= 0.20 um 
+VIA6.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.W.1: Via6 shapes must be 0.14x0.14 rectangles 
+VIA6.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.SP.1: Via6 to Via6 spacing must be >= 0.15 um 
+VIA6.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.SP.2: Via6 to Via6 spacing must be >= 0.20 um 
+VIA7.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA7.W.1: Via7 shapes must be 0.36x0.36 rectangles 
+VIA7.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA7.SP.1: Via7 to Via7 spacing must be >= 0.36 um 
+VIA8.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA8.W.1: Via8 shapes must be 0.36x0.36 rectangles 
+VIA8.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA8.SP.1: Via8 to Via8 spacing must be >= 0.36 um 
+VIA1.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.E.1: Metal1 to Via1 enclosure must be >= 0.005 um 
+VIA1.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.E.1: Metal1 to Via1 enclosure must be >= 0.005 um 
+VIA1.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.E.2: Metal1 to Via1 enclosure on opposite sides must be >= 0.06 um 
+VIA2.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.E.1: Metal2 to Via2 enclosure must be >= 0.005 um 
+VIA2.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.E.1: Metal2 to Via2 enclosure must be >= 0.005 um 
+VIA2.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.E.2: Metal2 to Via2 enclosure on opposite sides must be >= 0.06 um 
+VIA3.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.E.1: Metal3 to Via3 enclosure must be >= 0.005 um 
+VIA3.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.E.1: Metal3 to Via3 enclosure must be >= 0.005 um 
+VIA3.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.E.2: Metal3 to Via3 enclosure on opposite sides must be >= 0.06 um 
+VIA4.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.E.1: Metal4 to Via4 enclosure must be >= 0.005 um 
+VIA4.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.E.1: Metal4 to Via4 enclosure must be >= 0.005 um 
+VIA4.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.E.2: Metal4 to Via4 enclosure on opposite sides must be >= 0.06 um 
+VIA5.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.E.1: Metal5 to Via5 enclosure must be >= 0.005 um 
+VIA5.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.E.1: Metal5 to Via5 enclosure must be >= 0.005 um 
+VIA5.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.E.2: Metal5 to Via5 enclosure on opposite sides must be >= 0.06 um 
+VIA6.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.E.1: Metal6 to Via6 enclosure must be >= 0.005 um 
+VIA6.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.E.1: Metal6 to Via6 enclosure must be >= 0.005 um 
+VIA6.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.E.2: Metal6 to Via6 enclosure on opposite sides must be >= 0.06 um 
+VIA7.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA7.E.1: Metal7 to Via7 enclosure must be >= 0.03 um 
+VIA7.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA7.E.1: Metal7 to Via7 enclosure must be >= 0.03 um 
+VIA7.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA7.E.2: Metal7 to Via7 enclosure on opposite sides must be >= 0.08 um 
+VIA8.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA8.E.1: Metal8 to Via8 enclosure must be >= 0.03 um 
+VIA8.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA8.E.1: Metal8 to Via8 enclosure must be >= 0.03 um 
+VIA8.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA8.E.2: Metal8 to Via8 enclosure on opposite sides must be >= 0.08 um 
+VIA1.X.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA1.X.2: Metal1 must connect to Metal2 with >= 4 Via1 spaced < 0.30 um or >= 9 Via1 spaced < 0.60 um 
+VIA2.X.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA2.X.2: Metal2 must connect to Metal3 with >= 4 Via2 spaced < 0.30 um or >= 9 Via2 spaced < 0.60 um 
+VIA3.X.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA3.X.2: Metal3 must connect to Metal4 with >= 4 Via3 spaced < 0.30 um or >= 9 Via3 spaced < 0.60 um 
+VIA4.X.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA4.X.2: Metal4 must connect to Metal5 with >= 4 Via4 spaced < 0.30 um or >= 9 Via4 spaced < 0.60 um 
+VIA5.X.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA5.X.2: Metal5 must connect to Metal6 with >= 4 Via5 spaced < 0.30 um or >= 9 Via5 spaced < 0.60 um 
+VIA6.X.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+VIA6.X.2: Metal6 must connect to Metal7 with >= 4 Via6 spaced < 0.30 um or >= 9 Via6 spaced < 0.60 um 
+LATCHUP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+LATCHUP.2: N+SD to Psub tap spacing must be <= 25.0 um 
+MSLOT1.W.1_MSLOT1.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT1.W.1_MSLOT1.L.1: Metal1 Slot width/length must be >= 2.0 um 
+MSLOT1.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT1.SP.1: Metal1 Slot to Metal1 Slot spacing must be >= 0.12 um 
+MSLOT2.W.1_MSLOT2.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT2.W.1_MSLOT2.L.1: Metal2 Slot width/length must be >= 2.0 um 
+MSLOT2.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT2.SP.1: Metal2 Slot to Metal2 Slot spacing must be >= 0.14 um 
+MSLOT3.W.1_MSLOT3.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT3.W.1_MSLOT3.L.1: Metal3 Slot width/length must be >= 2.0 um 
+MSLOT3.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT3.SP.1: Metal3 Slot to Metal3 Slot spacing must be >= 0.14 um 
+MSLOT4.W.1_MSLOT4.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT4.W.1_MSLOT4.L.1: Metal4 Slot width/length must be >= 2.0 um 
+MSLOT4.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT4.SP.1: Metal4 Slot to Metal4 Slot spacing must be >= 0.14 um 
+MSLOT5.W.1_MSLOT5.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT5.W.1_MSLOT5.L.1: Metal5 Slot width/length must be >= 2.0 um 
+MSLOT5.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT5.SP.1: Metal5 Slot to Metal5 Slot spacing must be >= 0.14 um 
+MSLOT6.W.1_MSLOT6.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT6.W.1_MSLOT6.L.1: Metal6 Slot width/length must be >= 2.0 um 
+MSLOT6.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT6.SP.1: Metal6 Slot to Metal6 Slot spacing must be >= 0.14 um 
+MSLOT7.W.1_MSLOT7.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT7.W.1_MSLOT7.L.1: Metal7 Slot width/length must be >= 2.0 um 
+MSLOT7.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT7.SP.1: Metal7 Slot to Metal7 Slot spacing must be >= 0.14 um 
+MSLOT8.W.1_MSLOT8.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT8.W.1_MSLOT8.L.1: Metal8 Slot width/length must be >= 2.0 um 
+MSLOT8.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT8.SP.1: Metal8 Slot to Metal8 Slot spacing must be >= 0.44 um 
+MSLOT9.W.1_MSLOT9.L.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT9.W.1_MSLOT9.L.1: Metal9 Slot width/length must be >= 2.0 um 
+MSLOT9.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+MSLOT9.SP.1: Metal9 Slot to Metal9 Slot spacing must be >= 0.44 um 
+ESD.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.1: ESD gate width must be >= 15.0 um and <= 65.0 um 
+ESD.5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.5: NMOS I/O and ESD devices must be inside P+ rings 
+ESD.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.6: PMOS I/O and ESD devices must be inside N+ rings 
+ESD.7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.7: P+ taps can NOT butt NMOS I/O and ESD devices 
+ESD.7__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.7: N+ taps can NOT butt PMOS I/O and ESD devices 
+ESD.11
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.11: SiProt to Poly gate overlap must be >= 0.05 um 
+ESD.12
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.12: SiProt to Poly gate enclosure must be >= 1.8 um 
+ESD.13
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.13: SiProt to Oxide overlap must be >= 1.8 um 
+ESD.14
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.14: ESD gate length must be == 0.3 um 
+ESD.15
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.15: Poly gate to Cont spacing must be >= 0.25 um 
+ESD.15__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.15: Poly gate to Cont spacing must be >= 0.25 um 
+BONDPAD.E.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal1 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal1 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal1 to Metal1 spacing must be >= 3.0 um 
+BONDPAD.E.1__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal2 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal2 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal2 to Metal2 spacing must be >= 3.0 um 
+BONDPAD.E.1__5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal3 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal3 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal3 to Metal3 spacing must be >= 3.0 um 
+BONDPAD.E.1__7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal4 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__8
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal4 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal4 to Metal4 spacing must be >= 3.0 um 
+BONDPAD.E.1__9
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal5 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__10
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal5 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal5 to Metal5 spacing must be >= 3.0 um 
+BONDPAD.E.1__11
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal6 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__12
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal6 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal6 to Metal6 spacing must be >= 3.0 um 
+BONDPAD.E.1__13
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal7 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__14
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal7 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal7 to Metal7 spacing must be >= 3.0 um 
+BONDPAD.E.1__15
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal8 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__16
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal8 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__8
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal8 to Metal8 spacing must be >= 3.0 um 
+BONDPAD.E.1__17
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal9 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.E.1__18
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.1: Metal9 to Bondpad enclosure must be >= 2.0 um 
+BONDPAD.SP.2__9
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal9 to Metal9 spacing must be >= 3.0 um 
+BONDPAD.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.1: Bondpad width must be >= 52.0 um 
+BONDPAD.W.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.W.1: Bondpad width must be >= 52.0 um 
+BONDPAD.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.1: Bondpad to Bondpad spacing must be >= 8.0 um 
+BONDPAD.B.1__10
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal1 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__11
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal2 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__12
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal3 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__13
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal4 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__14
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal5 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__15
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal6 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__16
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal7 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__17
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal8 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.B.1__18
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.B.1: Bondpad Metal9 beveled segments must be >= 1.8 um and <= 3.2 um 
+BONDPAD.SP.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via1 to Bondpad Via1 spacing must be >= 0.22 um 
+BONDPAD.SP.3__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via2 to Bondpad Via2 spacing must be >= 0.22 um 
+BONDPAD.SP.3__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via3 to Bondpad Via3 spacing must be >= 0.22 um 
+BONDPAD.SP.3__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via4 to Bondpad Via4 spacing must be >= 0.22 um 
+BONDPAD.SP.3__5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via5 to Bondpad Via5 spacing must be >= 0.22 um 
+BONDPAD.SP.3__6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via6 to Bondpad Via6 spacing must be >= 0.22 um 
+BONDPAD.SP.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via7 to Bondpad Via7 spacing must be >= 0.54 um 
+BONDPAD.SP.4__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via8 to Bondpad Via8 spacing must be >= 0.54 um 
+BONDPAD.E.2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal1 to Via1 enclosure must be >= 0.05 um 
+BONDPAD.E.2__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal1 to Via1 enclosure must be >= 0.05 um 
+BONDPAD.E.2__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via2 enclosure must be >= 0.05 um 
+BONDPAD.E.2__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via2 enclosure must be >= 0.05 um 
+BONDPAD.E.2__5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via3 enclosure must be >= 0.05 um 
+BONDPAD.E.2__6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via3 enclosure must be >= 0.05 um 
+BONDPAD.E.2__7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via4 enclosure must be >= 0.05 um 
+BONDPAD.E.2__8
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via4 enclosure must be >= 0.05 um 
+BONDPAD.E.2__9
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via5 enclosure must be >= 0.05 um 
+BONDPAD.E.2__10
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via5 enclosure must be >= 0.05 um 
+BONDPAD.E.2__11
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via6 enclosure must be >= 0.05 um 
+BONDPAD.E.2__12
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via6 enclosure must be >= 0.05 um 
+BONDPAD.E.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal7 to Via7 enclosure must be >= 0.09 um 
+BONDPAD.E.3__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal7 to Via7 enclosure must be >= 0.09 um 
+BONDPAD.E.3__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via8 enclosure must be >= 0.09 um 
+BONDPAD.E.3__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via8 enclosure must be >= 0.09 um 
+BONDPAD.E.2__13
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via1 enclosure must be >= 0.05 um 
+BONDPAD.E.2__14
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via1 enclosure must be >= 0.05 um 
+BONDPAD.E.2__15
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via2 enclosure must be >= 0.05 um 
+BONDPAD.E.2__16
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via2 enclosure must be >= 0.05 um 
+BONDPAD.E.2__17
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via3 enclosure must be >= 0.05 um 
+BONDPAD.E.2__18
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via3 enclosure must be >= 0.05 um 
+BONDPAD.E.2__19
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via4 enclosure must be >= 0.05 um 
+BONDPAD.E.2__20
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via4 enclosure must be >= 0.05 um 
+BONDPAD.E.2__21
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via5 enclosure must be >= 0.05 um 
+BONDPAD.E.2__22
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via5 enclosure must be >= 0.05 um 
+BONDPAD.E.2__23
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal7 to Via6 enclosure must be >= 0.05 um 
+BONDPAD.E.2__24
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal7 to Via6 enclosure must be >= 0.05 um 
+BONDPAD.E.3__5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via7 enclosure must be >= 0.09 um 
+BONDPAD.E.3__6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via7 enclosure must be >= 0.09 um 
+BONDPAD.E.3__7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via8 enclosure must be >= 0.09 um 
+BONDPAD.E.3__8
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via8 enclosure must be >= 0.09 um 
+BONDPAD.SP.6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal1 to Bondpad Metal1 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal1 to Bondpad Metal1 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal2 to Bondpad Metal2 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal2 to Bondpad Metal2 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal3 to Bondpad Metal3 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal3 to Bondpad Metal3 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal4 to Bondpad Metal4 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__8
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal4 to Bondpad Metal4 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__9
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal5 to Bondpad Metal5 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__10
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal5 to Bondpad Metal5 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__11
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal6 to Bondpad Metal6 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__12
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal6 to Bondpad Metal6 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__13
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal7 to Bondpad Metal7 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__14
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal7 to Bondpad Metal7 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__15
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal8 to Bondpad Metal8 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.6__16
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal8 to Bondpad Metal8 spacing across first slot must be >= 1.00 um and <= 3.50 um 
+BONDPAD.SP.7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via1 array to Bondpad Via1 array spacing must be >= 1.1 um 
+BONDPAD.SP.7__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via2 array to Bondpad Via2 array spacing must be >= 1.1 um 
+BONDPAD.SP.7__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via3 array to Bondpad Via3 array spacing must be >= 1.1 um 
+BONDPAD.SP.7__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via4 array to Bondpad Via4 array spacing must be >= 1.1 um 
+BONDPAD.SP.7__5
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via5 array to Bondpad Via5 array spacing must be >= 1.1 um 
+BONDPAD.SP.7__6
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via6 array to Bondpad Via6 array spacing must be >= 1.1 um 
+BONDPAD.SP.7__7
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via7 array to Bondpad Via7 array spacing must be >= 1.1 um 
+BONDPAD.SP.7__8
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via8 array to Bondpad Via8 array spacing must be >= 1.1 um 
+OXIDER.W.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+OXIDER.W.1.1: Oxide resistor width must be >= 0.2 um 
+POLYR.W.1.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+POLYR.W.1.1: Poly resistor width must be >= 0.2 um 
+non45Errors
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+non45Errors 
+offGridErrors
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+offGridErrors 
+ptap_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ptap_StampErrorMult 
+ptap_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ptap_StampErrorConnect 
+ptap_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ptap_StampErrorFloat 
+psubstrate_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+psubstrate_StampErrorMult 
+psubstrate_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+psubstrate_StampErrorConnect 
+psubstrate_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+psubstrate_StampErrorFloat 
+ntap_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ntap_StampErrorMult 
+ntap_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ntap_StampErrorConnect 
+ntap_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ntap_StampErrorFloat 
+nwell_conn_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+nwell_conn_StampErrorMult 
+nwell_conn_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+nwell_conn_StampErrorConnect 
+nwell_conn_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+nwell_conn_StampErrorFloat 
+nb_tap_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+nb_tap_StampErrorMult 
+nb_tap_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+nb_tap_StampErrorConnect 
+nb_tap_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+nb_tap_StampErrorFloat 
+nburied_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+Nburied_StampErrorMult 
+nburied_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+Nburied_StampErrorConnect 
+nburied_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+Nburied_StampErrorFloat 
+l80382_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l80382_stamperrormult 
+l80382_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l80382_stamperrorconnect 
+l80382_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l80382_stamperrorfloat 
+l64324_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l64324_stamperrormult 
+l64324_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l64324_stamperrorconnect 
+l64324_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l64324_stamperrorfloat 
+l10595_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l10595_stamperrormult 
+l10595_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l10595_stamperrorconnect 
+l10595_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l10595_stamperrorfloat 
+l65219_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l65219_stamperrormult 
+l65219_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l65219_stamperrorconnect 
+l65219_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l65219_stamperrorfloat 
+l12421_stamperrormult
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l12421_stamperrormult 
+l12421_stamperrorconnect
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l12421_stamperrorconnect 
+l12421_stamperrorfloat
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+l12421_stamperrorfloat 
+NBL.W.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.W.1: Nburied width must be >= 3.2 um 
+NBL.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NBL.SP.1: Nburied to Nburied spacing must be >= 5.0 um 
+NW.SP.1
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SP.1: Nwell to Nwell spacing (same potential) must be >= 0.6 um 
+NW.SP.1__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SP.1: Nwell to Nwell spacing (same potential) must be >= 0.6 um 
+NW.SP.2__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+NW.SP.2: Nwell to Nwell spacing (diferent potential) must be >= 1.2 um 
+LATCHUP.3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+LATCHUP.3: NMOS (I/O or ESD) to PMOS (I/O or ESD) spacing must be >= 18.0 um 
+LATCHUP.3__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+LATCHUP.3: NMOS (I/O or ESD) to PMOS (I/O or ESD) spacing must be >= 18.0 um 
+LATCHUP.3__3
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+LATCHUP.3: NMOS (I/O or ESD) to PMOS (I/O or ESD) spacing must be >= 50.0 um when not blocked by a double guard ring 
+LATCHUP.3__4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+LATCHUP.3: NMOS (I/O or ESD) to PMOS (I/O or ESD) spacing must be >= 50.0 um when not blocked by a double guard ring 
+ESD.4
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.4: N+ source should connect to Pad or Bulk 
+ESD.4__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.4: P+ source should connect to Pad or Nwell 
+ESD.8
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.8: N+ drains must be non-salicided (except Contact area) 
+ESD.8__2
+0 0 2 Nov 26 11:59:37 2024
+Rule File Pathname: /home/student/Downloads/HOPE_finalMBIST/PVS/DRC/.technology.rul
+ESD.8: P+ drains must be non-salicided (except Contact area) 

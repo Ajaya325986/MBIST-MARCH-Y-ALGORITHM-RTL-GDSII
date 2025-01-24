@@ -1,0 +1,41 @@
+##############################################################################################################
+#####  
+#####                                         PVS LVS COMPARISON
+#####  
+#####  Version                       :   22.20-p031
+#####  NVN Run Start                 :   Tue Nov 26 12:01:59 2024
+#####  ERC Summary File              :   controller1.sum
+#####  Extraction Report File        :   controller1.rep
+#####  Comparison Report File        :   controller1.rep.cls
+#####  
+#####                                :      @     @     
+#####                                :       @   @      
+#####                                :        @ @       
+#####  Run Result                    :     LVS ABORT
+#####                                :        @ @       
+#####                                :       @   @      
+#####                                :      @     @     
+#####  
+#####  Run Summary                   :   [ERROR] Comparison Aborted
+#####                                :   [INFO]  ERC Results: Empty
+#####                                :   [INFO]  Extraction Clean
+#####  
+#####  Layout Design                 :   /home/student/Downloads/HOPE_finalMBIST/PVS/LVS/controller1.gds.gz (gdsii)
+#####  Layout File                   :   /home/student/Downloads/HOPE_finalMBIST/PVS/LVS/controller1.spi (cdl)
+#####  Schematic File                :   /home/student/Downloads/HOPE_finalMBIST/PVS/LVS/controller1.v (verilog)
+#####  Rules File                    :   /home/student/Downloads/HOPE_finalMBIST/PVS/LVS/.technology.rul
+#####  Pin Swap File                 :   controller1.rep.cps
+#####  
+#####  Extraction CPU Time           :   0h 0m 0s - (0s)
+#####  Extraction Exec Time          :   0h 0m 0s - (0s)
+#####  Extraction Peak Memory Usage  :   23.00MB
+#####  NVN CPU Time                  :   0h 0m 0s - (0s)                 
+#####  NVN Exec Time                 :   0h 0m 0s - (0s)                 
+#####  NVN Peak Memory Usage         :   295.20MB
+#####  LVS Total CPU Time            :   0h 0m 0s - (0s)                 
+#####  LVS Total Exec Time           :   0h 0m 0s - (0s)                 
+#####  LVS Total Peak Memory Usage   :   295.20MB
+#####  
+##############################################################################################################
+
+

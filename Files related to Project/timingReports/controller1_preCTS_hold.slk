@@ -1,0 +1,22 @@
+# Format: clock  timeReq  slackR/slackF  holdR/holdF  instName/pinName   # cycle(s)
+clk(R)->clk(R)	0.102    */0.020         */-0.102        fresh_state_reg/D    1
+clk(R)->clk(R)	0.091    */0.057         */-0.091        Test_reg/D    1
+clk(R)->clk(R)	0.033    0.071/*         -0.033/*        CA_reg[3]/D    1
+clk(R)->clk(R)	0.026    0.072/*         -0.026/*        CA_reg[0]/D    1
+clk(R)->clk(R)	0.024    0.072/*         -0.024/*        CA_reg[2]/D    1
+clk(R)->clk(R)	0.020    0.073/*         -0.020/*        CA_reg[1]/D    1
+clk(R)->clk(R)	-0.002   0.080/*         0.002/*         we_reg/D    1
+clk(R)->clk(R)	-0.002   0.080/*         0.002/*         datain_reg[0]/D    1
+clk(R)->clk(R)	-0.002   0.080/*         0.002/*         re_reg/D    1
+clk(R)->clk(R)	0.003    0.081/*         -0.003/*        element_done_reg/D    1
+clk(R)->clk(R)	-0.001   0.083/*         0.001/*         nextstate_reg[0]/D    1
+clk(R)->clk(R)	-0.001   0.083/*         0.001/*         nextstate_reg[1]/D    1
+clk(R)->clk(R)	0.002    */0.185         */-0.002        datain_reg[0]/SE    1
+clk(R)->clk(R)	0.007    */0.189         */-0.007        we_reg/SE    1
+clk(R)->clk(R)	0.007    */0.189         */-0.007        re_reg/SE    1
+clk(R)->clk(R)	0.029    */0.197         */-0.029        CA_reg[0]/SE    1
+clk(R)->clk(R)	0.029    */0.197         */-0.029        CA_reg[2]/SE    1
+clk(R)->clk(R)	0.029    */0.197         */-0.029        CA_reg[1]/SE    1
+clk(R)->clk(R)	0.029    */0.197         */-0.029        CA_reg[3]/SE    1
+clk(R)->clk(R)	0.028    2.076/*         -0.028/*        Test_reg/SN    1
+clk(R)->clk(R)	0.028    2.076/*         -0.028/*        fresh_state_reg/SN    1

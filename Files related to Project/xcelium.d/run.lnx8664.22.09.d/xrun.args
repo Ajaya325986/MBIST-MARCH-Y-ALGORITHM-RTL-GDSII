@@ -1,0 +1,10 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+controller1.v
+memory.v
+tb_bist_memory.v
+-access
++rwc
+-gui

@@ -1,0 +1,1036 @@
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* CDL Netlist:                                              *
+*                                                           *
+* Cell Name  : controller1                                  *
+* Netlisted  : Tue Nov 26 12:01:54 2024                     *
+* PVS Version: 22.20-p031 Thu Nov 17 19:06:38 PST 2022      *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+*.LDD
+*.DEVTMPLT 0 MN(nmos1v) _nmos_12 ndiff_conn(D) poly_conn(G) ndiff_conn(S) psubstrate(B)
+*.DEVTMPLT 1 MP(pmos1v) _pmos_12 pdiff_conn(D) poly_conn(G) pdiff_conn(S) nwell_conn(B)
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: NAND3BX1                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt NAND3BX1 Y C B VDD VSS AN
+** N=9 EP=6 FDC=8
+M0 8 C Y VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=1110 $Y=800 $dt=0
+M1 9 B 8 VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=1550 $Y=800 $dt=0
+M2 VSS 7 9 VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=2190 $Y=800 $dt=0
+M3 7 AN VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3150 $Y=1180 $dt=0
+M4 VDD C Y VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=710 $Y=3120 $dt=1
+M5 Y B VDD VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=1550 $Y=3120 $dt=1
+M6 VDD 7 Y VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=2390 $Y=3120 $dt=1
+M7 7 AN VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3350 $Y=3120 $dt=1
+.ends NAND3BX1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: CLKINVX1                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt CLKINVX1 A Y VDD VSS
+** N=4 EP=4 FDC=2
+M0 Y A VSS VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=710 $Y=870 $dt=0
+M1 Y A VDD VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=710 $Y=2680 $dt=1
+.ends CLKINVX1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: OAI211XL                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt OAI211XL A1 B0 A0 Y VDD VSS C0
+** N=10 EP=7 FDC=8
+M0 VSS A0 8 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=710 $Y=1140 $dt=0
+M1 8 A1 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1550 $Y=1140 $dt=0
+M2 9 B0 8 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2390 $Y=1140 $dt=0
+M3 Y C0 9 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2830 $Y=1140 $dt=0
+M4 10 A0 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=820 $Y=3180 $dt=1
+M5 Y A1 10 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1260 $Y=3180 $dt=1
+M6 VDD B0 Y VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2100 $Y=3180 $dt=1
+M7 Y C0 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3150 $Y=3180 $dt=1
+.ends OAI211XL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: AOI211XL                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt AOI211XL A1 B0 A0 Y VDD VSS C0
+** N=10 EP=7 FDC=8
+M0 8 A0 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=710 $Y=1030 $dt=0
+M1 Y A1 8 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1150 $Y=1030 $dt=0
+M2 VSS B0 Y VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1990 $Y=1030 $dt=0
+M3 Y C0 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2830 $Y=1030 $dt=0
+M4 VDD A0 9 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=710 $Y=3380 $dt=1
+M5 9 A1 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1550 $Y=3380 $dt=1
+M6 10 B0 9 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2390 $Y=3380 $dt=1
+M7 Y C0 10 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2830 $Y=3380 $dt=1
+.ends AOI211XL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: OAI21XL                                         *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt OAI21XL A1 A0 VDD VSS B0 Y
+** N=8 EP=6 FDC=6
+M0 VSS A0 7 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=890 $Y=1360 $dt=0
+M1 7 A1 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1730 $Y=1360 $dt=0
+M2 Y B0 7 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2570 $Y=1360 $dt=0
+M3 8 A0 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1290 $Y=3560 $dt=1
+M4 Y A1 8 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1730 $Y=3560 $dt=1
+M5 VDD B0 Y VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2570 $Y=3560 $dt=1
+.ends OAI21XL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: AOI221XL                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt AOI221XL A0 A1 VDD VSS Y B0 B1 C0
+** N=12 EP=8 FDC=10
+M0 9 A0 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1070 $Y=800 $dt=0
+M1 Y A1 9 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1510 $Y=800 $dt=0
+M2 10 B1 Y VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3050 $Y=800 $dt=0
+M3 VSS B0 10 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3490 $Y=800 $dt=0
+M4 Y C0 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=4330 $Y=800 $dt=0
+M5 12 A0 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=670 $Y=3180 $dt=1
+M6 VDD A1 12 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1510 $Y=3180 $dt=1
+M7 12 B1 11 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3050 $Y=2840 $dt=1
+M8 11 B0 12 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3890 $Y=2840 $dt=1
+M9 Y C0 11 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4730 $Y=2840 $dt=1
+.ends AOI221XL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: OAI222XL                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt OAI222XL A1 A0 VDD VSS Y B0 C0 B1 C1
+** N=14 EP=9 FDC=12
+M0 10 A0 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=610 $Y=1320 $dt=0
+M1 VSS A1 10 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1450 $Y=1320 $dt=0
+M2 10 B1 11 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2950 $Y=1200 $dt=0
+M3 11 B0 10 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3790 $Y=1200 $dt=0
+M4 Y C0 11 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=4630 $Y=1200 $dt=0
+M5 11 C1 Y VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=5470 $Y=1200 $dt=0
+M6 12 A0 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1010 $Y=3700 $dt=1
+M7 Y A1 12 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1450 $Y=3700 $dt=1
+M8 13 B1 Y VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2950 $Y=3700 $dt=1
+M9 VDD B0 13 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3790 $Y=3700 $dt=1
+M10 14 C0 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4630 $Y=3700 $dt=1
+M11 Y C1 14 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=5070 $Y=3700 $dt=1
+.ends OAI222XL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: MXI2XL                                          *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt MXI2XL Y A VDD VSS S0 B
+** N=11 EP=6 FDC=10
+M0 8 A VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=720 $Y=1320 $dt=0
+M1 Y 7 8 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1160 $Y=1320 $dt=0
+M2 9 S0 Y VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2000 $Y=1320 $dt=0
+M3 VSS B 9 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2460 $Y=1320 $dt=0
+M4 7 S0 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3300 $Y=1320 $dt=0
+M5 10 A VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=720 $Y=3700 $dt=1
+M6 Y S0 10 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1160 $Y=3700 $dt=1
+M7 11 7 Y VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2000 $Y=3700 $dt=1
+M8 VDD B 11 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2440 $Y=3700 $dt=1
+M9 7 S0 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3280 $Y=3700 $dt=1
+.ends MXI2XL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: CLKXOR2X1                                       *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt CLKXOR2X1 Y VDD VSS A B
+** N=10 EP=5 FDC=12
+M0 VSS 8 Y VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=710 $Y=980 $dt=0
+M1 6 A VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1830 $Y=1080 $dt=0
+M2 8 7 6 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3110 $Y=1080 $dt=0
+M3 9 B 8 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3950 $Y=1080 $dt=0
+M4 VSS 6 9 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=4390 $Y=1080 $dt=0
+M5 7 B VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=5230 $Y=1080 $dt=0
+M6 VDD 8 Y VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=780 $Y=3120 $dt=1
+M7 6 A VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1860 $Y=3240 $dt=1
+M8 8 B 6 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2700 $Y=3240 $dt=1
+M9 10 7 8 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3540 $Y=3240 $dt=1
+M10 VDD 6 10 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4150 $Y=3240 $dt=1
+M11 7 B VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4990 $Y=3240 $dt=1
+.ends CLKXOR2X1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: TBUFX1                                          *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt TBUFX1 OE A VDD VSS Y
+** N=10 EP=5 FDC=12
+M0 9 OE 6 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=720 $Y=1240 $dt=0
+M1 VSS A 9 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1160 $Y=1240 $dt=0
+M2 8 OE VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2360 $Y=1240 $dt=0
+M3 7 8 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3990 $Y=1240 $dt=0
+M4 VSS A 7 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=4830 $Y=1240 $dt=0
+M5 Y 7 VSS VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=5790 $Y=900 $dt=0
+M6 6 OE VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=710 $Y=3460 $dt=1
+M7 VDD A 6 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1550 $Y=3460 $dt=1
+M8 8 OE VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2630 $Y=3460 $dt=1
+M9 10 8 7 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4370 $Y=3120 $dt=1
+M10 VDD A 10 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4810 $Y=3120 $dt=1
+M11 Y 6 VDD VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=6050 $Y=3120 $dt=1
+.ends TBUFX1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: DFFTRXL                                         *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt DFFTRXL QN VDD VSS Q CK D RN
+** N=20 EP=7 FDC=30
+M0 VSS 14 QN VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=710 $Y=1360 $dt=0
+M1 14 12 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1550 $Y=1360 $dt=0
+M2 VSS 12 Q VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3170 $Y=1340 $dt=0
+M3 9 CK VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=4130 $Y=1340 $dt=0
+M4 VSS 13 12 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=5750 $Y=1320 $dt=0
+M5 15 12 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=6710 $Y=1320 $dt=0
+M6 13 9 15 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=7230 $Y=1320 $dt=0
+M7 10 8 13 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=8310 $Y=1320 $dt=0
+M8 VSS 11 10 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=9150 $Y=1320 $dt=0
+M9 16 10 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=10070 $Y=1320 $dt=0
+M10 11 8 16 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=10510 $Y=1320 $dt=0
+M11 17 9 11 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=11350 $Y=1320 $dt=0
+M12 VSS 9 8 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=13210 $Y=1320 $dt=0
+M13 18 RN VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=14150 $Y=1320 $dt=0
+M14 17 D 18 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=14750 $Y=1320 $dt=0
+M15 VDD 14 QN VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=710 $Y=2680 $dt=1
+M16 14 12 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1550 $Y=2680 $dt=1
+M17 VDD 12 Q VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3170 $Y=3180 $dt=1
+M18 9 CK VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4010 $Y=3180 $dt=1
+M19 VDD 13 12 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=5630 $Y=3240 $dt=1
+M20 19 12 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=6710 $Y=3240 $dt=1
+M21 13 8 19 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=7150 $Y=3240 $dt=1
+M22 10 9 13 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=7990 $Y=3240 $dt=1
+M23 VDD 11 10 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=9030 $Y=3240 $dt=1
+M24 20 10 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=10110 $Y=3240 $dt=1
+M25 11 9 20 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=10550 $Y=3240 $dt=1
+M26 17 8 11 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=11390 $Y=3240 $dt=1
+M27 VDD 9 8 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=13150 $Y=2680 $dt=1
+M28 17 RN VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=13990 $Y=2680 $dt=1
+M29 VDD D 17 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=14830 $Y=2680 $dt=1
+.ends DFFTRXL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: NAND2BX1                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt NAND2BX1 B Y VDD VSS AN
+** N=7 EP=5 FDC=6
+M0 7 B Y VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=1120 $Y=800 $dt=0
+M1 VSS 6 7 VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=1560 $Y=800 $dt=0
+M2 6 AN VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2520 $Y=1180 $dt=0
+M3 Y B VDD VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=840 $Y=3120 $dt=1
+M4 VDD 6 Y VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=1680 $Y=3120 $dt=1
+M5 6 AN VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2520 $Y=3240 $dt=1
+.ends NAND2BX1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: DFFSHQX1                                        *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt DFFSHQX1 Q VDD VSS SN D CK
+** N=20 EP=6 FDC=28
+M0 VSS 11 Q VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=1280 $Y=900 $dt=0
+M1 VSS 12 11 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=2900 $Y=880 $dt=0
+M2 13 SN VSS VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=3740 $Y=880 $dt=0
+M3 14 11 13 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=4540 $Y=880 $dt=0
+M4 12 7 14 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=4980 $Y=880 $dt=0
+M5 9 8 12 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=5820 $Y=880 $dt=0
+M6 VSS 7 8 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=8520 $Y=1100 $dt=0
+M7 15 SN VSS VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=9510 $Y=980 $dt=0
+M8 9 10 15 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=9950 $Y=980 $dt=0
+M9 16 9 VSS VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=11990 $Y=800 $dt=0
+M10 10 8 16 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=12630 $Y=800 $dt=0
+M11 17 7 10 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=13750 $Y=800 $dt=0
+M12 VSS D 17 VSS nmos1v L=1e-07 W=3.4e-07 fw=3.4e-07 simw=3.4e-07 $X=14190 $Y=800 $dt=0
+M13 7 CK VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=15030 $Y=1000 $dt=0
+M14 VDD 11 Q VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=1280 $Y=2680 $dt=1
+M15 VDD 12 11 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=2900 $Y=3380 $dt=1
+M16 18 SN VDD VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=3740 $Y=3380 $dt=1
+M17 VDD 11 18 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=4580 $Y=3380 $dt=1
+M18 12 8 18 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=6360 $Y=3380 $dt=1
+M19 9 7 12 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=7200 $Y=3380 $dt=1
+M20 VDD 7 8 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=8910 $Y=2900 $dt=1
+M21 9 SN VDD VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=10110 $Y=2900 $dt=1
+M22 VDD 10 9 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=10950 $Y=2900 $dt=1
+M23 19 9 VDD VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=11910 $Y=2900 $dt=1
+M24 10 7 19 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=12510 $Y=2900 $dt=1
+M25 20 8 10 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=13350 $Y=3000 $dt=1
+M26 VDD D 20 VDD pmos1v L=1e-07 W=5.2e-07 fw=5.2e-13 simw=5.2e-07 $X=13790 $Y=3000 $dt=1
+M27 7 CK VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=14630 $Y=3320 $dt=1
+.ends DFFSHQX1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: SDFFQX1                                         *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt SDFFQX1 Q CK VDD VSS D SE SI
+** N=23 EP=7 FDC=32
+M0 VSS 13 Q VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=710 $Y=980 $dt=0
+M1 10 CK VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1670 $Y=1360 $dt=0
+M2 VSS 14 13 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=3290 $Y=1360 $dt=0
+M3 15 13 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=4350 $Y=1360 $dt=0
+M4 14 10 15 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=5030 $Y=1360 $dt=0
+M5 11 9 14 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=5870 $Y=1360 $dt=0
+M6 VSS 12 11 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=7030 $Y=1360 $dt=0
+M7 16 11 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=7910 $Y=1360 $dt=0
+M8 12 9 16 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=8350 $Y=1360 $dt=0
+M9 17 10 12 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=9190 $Y=1360 $dt=0
+M10 VSS 10 9 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=11050 $Y=820 $dt=0
+M11 18 D VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=11890 $Y=820 $dt=0
+M12 17 8 18 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=12330 $Y=820 $dt=0
+M13 19 SE 17 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=13170 $Y=820 $dt=0
+M14 VSS SI 19 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=13610 $Y=820 $dt=0
+M15 8 SE VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=14450 $Y=820 $dt=0
+M16 VDD 13 Q VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=710 $Y=3120 $dt=1
+M17 10 CK VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1670 $Y=3120 $dt=1
+M18 VDD 14 13 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=3630 $Y=3200 $dt=1
+M19 20 13 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=4710 $Y=3200 $dt=1
+M20 14 9 20 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=5150 $Y=3200 $dt=1
+M21 11 10 14 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=5990 $Y=3200 $dt=1
+M22 VDD 12 11 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=6830 $Y=3200 $dt=1
+M23 21 11 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=7910 $Y=3200 $dt=1
+M24 12 10 21 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=8350 $Y=3200 $dt=1
+M25 17 9 12 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=9230 $Y=3200 $dt=1
+M26 VDD 10 9 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=11050 $Y=3700 $dt=1
+M27 22 D VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=11890 $Y=3700 $dt=1
+M28 17 SE 22 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=12330 $Y=3700 $dt=1
+M29 23 8 17 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=13170 $Y=3700 $dt=1
+M30 VDD SI 23 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=13610 $Y=3700 $dt=1
+M31 8 SE VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=14450 $Y=3700 $dt=1
+.ends SDFFQX1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: AOI21XL                                         *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt AOI21XL A0 A1 VDD VSS B0 Y
+** N=8 EP=6 FDC=6
+M0 7 A0 VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1130 $Y=880 $dt=0
+M1 Y A1 7 VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=1730 $Y=880 $dt=0
+M2 VSS B0 Y VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=2570 $Y=880 $dt=0
+M3 VDD A0 8 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=710 $Y=2920 $dt=1
+M4 8 A1 VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=1730 $Y=2920 $dt=1
+M5 Y B0 8 VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=2570 $Y=2920 $dt=1
+.ends AOI21XL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: INVXL                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt INVXL A Y VDD VSS
+** N=4 EP=4 FDC=2
+M0 Y A VSS VSS nmos1v L=1e-07 W=2.4e-07 fw=2.4e-07 simw=2.4e-07 $X=710 $Y=1360 $dt=0
+M1 Y A VDD VDD pmos1v L=1e-07 W=3.6e-07 fw=3.6e-13 simw=3.6e-07 $X=710 $Y=2910 $dt=1
+.ends INVXL
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: INVX1                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt INVX1 Y A VDD VSS
+** N=4 EP=4 FDC=2
+M0 Y A VSS VSS nmos1v L=1e-07 W=4.3e-07 fw=4.3e-07 simw=4.3e-07 $X=710 $Y=870 $dt=0
+M1 Y A VDD VDD pmos1v L=1e-07 W=6.5e-07 fw=6.5e-13 simw=6.5e-07 $X=710 $Y=2680 $dt=1
+.ends INVX1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: FILL4                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt FILL4 1 2
+** N=2 EP=2 FDC=0
+.ends FILL4
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: FILL2                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt FILL2 1 2
+** N=2 EP=2 FDC=0
+.ends FILL2
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: FILL64                                          *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt FILL64 1 2
+** N=2 EP=2 FDC=0
+.ends FILL64
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: FILL32                                          *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt FILL32 1 2
+** N=2 EP=2 FDC=0
+.ends FILL32
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: FILL1                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt FILL1 1 2
+** N=2 EP=2 FDC=0
+.ends FILL1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: FILL16                                          *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt FILL16 1 2
+** N=2 EP=2 FDC=0
+.ends FILL16
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: FILL8                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt FILL8 1 2
+** N=2 EP=2 FDC=0
+.ends FILL8
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: VIA2X                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt VIA2X 1
+** N=1 EP=1 FDC=0
+.ends VIA2X
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: VIA1V                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt VIA1V 1
+** N=1 EP=1 FDC=0
+.ends VIA1V
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: VIA1X                                           *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt VIA1X 1
+** N=1 EP=1 FDC=0
+.ends VIA1X
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA0                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA0 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA0
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA1                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA1 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA1
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA2                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA2 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA2
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA3                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA3 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA3
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA4                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA4 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA4
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA5                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA5 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA5
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA6                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA6 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA6
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA7                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA7 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA7
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1_VIA8                                *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1_VIA8 1
+** N=1 EP=1 FDC=0
+.ends controller1_VIA8
+
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+* Sub cell: controller1                                     *
+* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++ *
+.subckt controller1 VDD VSS clk dataout[0] dataout[1] dataout[2] dataout[3] dataout[4] dataout[5] dataout[6]
++ dataout[7] rst status
+** N=51 EP=13 FDC=256
+X0 1 2 3 VDD VSS 6 NAND3BX1 $T=69600 84100 1 180 $X=64360 $Y=83740
+X1 7 8 VDD VSS CLKINVX1 $T=44080 31900 0 0 $X=43480 $Y=31540
+X2 dataout[5] 10 VDD VSS CLKINVX1 $T=64960 84100 1 180 $X=62620 $Y=83740
+X3 11 12 VDD VSS CLKINVX1 $T=66700 84100 0 180 $X=64360 $Y=78280
+X4 dataout[2] 3 VDD VSS CLKINVX1 $T=69600 84100 0 0 $X=69000 $Y=83740
+X5 dataout[4] 15 16 17 VDD VSS 12 OAI211XL $T=85260 84100 0 180 $X=80600 $Y=78280
+X6 dataout[7] 19 20 21 VDD VSS 1 AOI211XL $T=75400 84100 1 180 $X=70740 $Y=83740
+X7 dataout[4] 22 23 15 VDD VSS 24 AOI211XL $T=82360 84100 0 0 $X=81760 $Y=83740
+X8 dataout[7] 25 VDD VSS 21 24 OAI21XL $T=77720 84100 0 0 $X=77120 $Y=83740
+X9 dataout[0] 12 VDD VSS 2 dataout[3] 28 29 AOI221XL $T=56840 84100 1 180 $X=50440 $Y=83740
+X10 30 10 VDD VSS 6 dataout[3] 12 31 dataout[0] OAI222XL $T=63220 84100 1 180 $X=56240 $Y=83740
+X11 29 32 VDD VSS dataout[1] 34 MXI2XL $T=51040 84100 1 180 $X=45800 $Y=83740
+X12 22 VDD VSS dataout[6] 36 CLKXOR2X1 $T=87580 84100 1 0 $X=86980 $Y=78280
+X13 37 38 VDD VSS 34 TBUFX1 $T=51040 31900 0 180 $X=43480 $Y=26080
+X14 37 38 VDD VSS 39 TBUFX1 $T=49880 31900 0 0 $X=49280 $Y=31540
+X15 37 38 VDD VSS 36 TBUFX1 $T=49880 42340 1 0 $X=49280 $Y=36520
+X16 37 38 VDD VSS 30 TBUFX1 $T=59740 31900 0 0 $X=59140 $Y=31540
+X17 37 38 VDD VSS 11 TBUFX1 $T=59740 42340 1 0 $X=59140 $Y=36520
+X18 37 VDD VSS 40 clk 8 42 DFFTRXL $T=52200 31900 1 0 $X=51600 $Y=26080
+X19 43 7 VDD VSS rst NAND2BX1 $T=38860 31900 1 180 $X=34780 $Y=31540
+X20 43 VDD VSS 45 46 clk DFFSHQX1 $T=27260 31900 1 0 $X=26660 $Y=26080
+X21 38 clk VDD VSS 38 8 47 SDFFQX1 $T=59160 21460 1 180 $X=42900 $Y=21100
+X22 48 49 VDD VSS 50 46 AOI21XL $T=38280 21460 1 180 $X=34200 $Y=21100
+X23 rst 45 VDD VSS INVXL $T=35380 31900 1 180 $X=33040 $Y=31540
+X24 50 43 VDD VSS INVX1 $T=33060 21460 0 0 $X=32460 $Y=21100
+X25 VDD VSS FILL4 $T=16240 21460 1 0 $X=15660 $Y=15640
+X26 VDD VSS FILL4 $T=16240 21460 0 0 $X=15660 $Y=21100
+X27 VDD VSS FILL4 $T=16240 31900 1 0 $X=15660 $Y=26080
+X28 VDD VSS FILL4 $T=16240 31900 0 0 $X=15660 $Y=31540
+X29 VDD VSS FILL4 $T=16240 42340 1 0 $X=15660 $Y=36520
+X30 VDD VSS FILL4 $T=16240 42340 0 0 $X=15660 $Y=41980
+X31 VDD VSS FILL4 $T=16240 52780 1 0 $X=15660 $Y=46960
+X32 VDD VSS FILL4 $T=16240 52780 0 0 $X=15660 $Y=52420
+X33 VDD VSS FILL4 $T=16240 63220 1 0 $X=15660 $Y=57400
+X34 VDD VSS FILL4 $T=16240 63220 0 0 $X=15660 $Y=62860
+X35 VDD VSS FILL4 $T=16240 73660 1 0 $X=15660 $Y=67840
+X36 VDD VSS FILL4 $T=16240 73660 0 0 $X=15660 $Y=73300
+X37 VDD VSS FILL4 $T=16240 84100 1 0 $X=15660 $Y=78280
+X38 VDD VSS FILL4 $T=16240 84100 0 0 $X=15660 $Y=83740
+X39 VDD VSS FILL4 $T=24360 31900 1 0 $X=23780 $Y=26080
+X40 VDD VSS FILL4 $T=29000 21460 0 0 $X=28420 $Y=21100
+X41 VDD VSS FILL4 $T=42920 84100 0 0 $X=42340 $Y=83740
+X42 VDD VSS FILL4 $T=45820 31900 0 0 $X=45240 $Y=31540
+X43 VDD VSS FILL4 $T=47560 42340 1 0 $X=46980 $Y=36520
+X44 VDD VSS FILL4 $T=56840 31900 0 0 $X=56260 $Y=31540
+X45 VDD VSS FILL4 $T=56840 42340 1 0 $X=56260 $Y=36520
+X46 VDD VSS FILL4 $T=61480 84100 1 0 $X=60900 $Y=78280
+X47 VDD VSS FILL4 $T=72500 31900 1 0 $X=71920 $Y=26080
+X48 VDD VSS FILL4 $T=73080 21460 0 0 $X=72500 $Y=21100
+X49 VDD VSS FILL4 $T=77140 84100 1 0 $X=76560 $Y=78280
+X50 VDD VSS FILL4 $T=85260 84100 1 0 $X=84680 $Y=78280
+X51 VDD VSS FILL4 $T=91060 21460 1 0 $X=90480 $Y=15640
+X52 VDD VSS FILL4 $T=91060 21460 0 0 $X=90480 $Y=21100
+X53 VDD VSS FILL4 $T=91060 31900 1 0 $X=90480 $Y=26080
+X54 VDD VSS FILL4 $T=91060 31900 0 0 $X=90480 $Y=31540
+X55 VDD VSS FILL4 $T=91060 42340 1 0 $X=90480 $Y=36520
+X56 VDD VSS FILL4 $T=91060 42340 0 0 $X=90480 $Y=41980
+X57 VDD VSS FILL4 $T=91060 52780 1 0 $X=90480 $Y=46960
+X58 VDD VSS FILL4 $T=91060 52780 0 0 $X=90480 $Y=52420
+X59 VDD VSS FILL4 $T=91060 63220 1 0 $X=90480 $Y=57400
+X60 VDD VSS FILL4 $T=91060 63220 0 0 $X=90480 $Y=62860
+X61 VDD VSS FILL4 $T=91060 73660 1 0 $X=90480 $Y=67840
+X62 VDD VSS FILL4 $T=91060 73660 0 0 $X=90480 $Y=73300
+X63 VDD VSS FILL4 $T=91060 84100 0 0 $X=90480 $Y=83740
+X64 VDD VSS FILL4 $T=97440 21460 0 180 $X=94540 $Y=15640
+X65 VDD VSS FILL4 $T=97440 21460 1 180 $X=94540 $Y=21100
+X66 VDD VSS FILL4 $T=97440 31900 0 180 $X=94540 $Y=26080
+X67 VDD VSS FILL4 $T=97440 31900 1 180 $X=94540 $Y=31540
+X68 VDD VSS FILL4 $T=97440 42340 0 180 $X=94540 $Y=36520
+X69 VDD VSS FILL4 $T=97440 42340 1 180 $X=94540 $Y=41980
+X70 VDD VSS FILL4 $T=97440 52780 0 180 $X=94540 $Y=46960
+X71 VDD VSS FILL4 $T=97440 52780 1 180 $X=94540 $Y=52420
+X72 VDD VSS FILL4 $T=97440 63220 0 180 $X=94540 $Y=57400
+X73 VDD VSS FILL4 $T=97440 63220 1 180 $X=94540 $Y=62860
+X74 VDD VSS FILL4 $T=97440 73660 0 180 $X=94540 $Y=67840
+X75 VDD VSS FILL4 $T=97440 73660 1 180 $X=94540 $Y=73300
+X76 VDD VSS FILL4 $T=97440 84100 0 180 $X=94540 $Y=78280
+X77 VDD VSS FILL4 $T=97440 84100 1 180 $X=94540 $Y=83740
+X78 VDD VSS FILL2 $T=18560 21460 1 0 $X=17980 $Y=15640
+X79 VDD VSS FILL2 $T=18560 21460 0 0 $X=17980 $Y=21100
+X80 VDD VSS FILL2 $T=18560 31900 1 0 $X=17980 $Y=26080
+X81 VDD VSS FILL2 $T=18560 31900 0 0 $X=17980 $Y=31540
+X82 VDD VSS FILL2 $T=18560 42340 1 0 $X=17980 $Y=36520
+X83 VDD VSS FILL2 $T=18560 42340 0 0 $X=17980 $Y=41980
+X84 VDD VSS FILL2 $T=18560 52780 1 0 $X=17980 $Y=46960
+X85 VDD VSS FILL2 $T=18560 52780 0 0 $X=17980 $Y=52420
+X86 VDD VSS FILL2 $T=18560 63220 1 0 $X=17980 $Y=57400
+X87 VDD VSS FILL2 $T=18560 63220 0 0 $X=17980 $Y=62860
+X88 VDD VSS FILL2 $T=18560 73660 1 0 $X=17980 $Y=67840
+X89 VDD VSS FILL2 $T=18560 73660 0 0 $X=17980 $Y=73300
+X90 VDD VSS FILL2 $T=18560 84100 1 0 $X=17980 $Y=78280
+X91 VDD VSS FILL2 $T=18560 84100 0 0 $X=17980 $Y=83740
+X92 VDD VSS FILL2 $T=31320 21460 0 0 $X=30740 $Y=21100
+X93 VDD VSS FILL2 $T=45240 84100 0 0 $X=44660 $Y=83740
+X94 VDD VSS FILL2 $T=48140 31900 0 0 $X=47560 $Y=31540
+X95 VDD VSS FILL2 $T=51040 31900 1 0 $X=50460 $Y=26080
+X96 VDD VSS FILL2 $T=63800 84100 1 0 $X=63220 $Y=78280
+X97 VDD VSS FILL2 $T=74820 31900 1 0 $X=74240 $Y=26080
+X98 VDD VSS FILL2 $T=75980 21460 1 0 $X=75400 $Y=15640
+X99 VDD VSS FILL2 $T=75980 21460 0 0 $X=75400 $Y=21100
+X100 VDD VSS FILL2 $T=75980 31900 1 0 $X=75400 $Y=26080
+X101 VDD VSS FILL2 $T=75980 31900 0 0 $X=75400 $Y=31540
+X102 VDD VSS FILL2 $T=75980 42340 1 0 $X=75400 $Y=36520
+X103 VDD VSS FILL2 $T=75980 42340 0 0 $X=75400 $Y=41980
+X104 VDD VSS FILL2 $T=75980 52780 1 0 $X=75400 $Y=46960
+X105 VDD VSS FILL2 $T=75980 52780 0 0 $X=75400 $Y=52420
+X106 VDD VSS FILL2 $T=75980 63220 1 0 $X=75400 $Y=57400
+X107 VDD VSS FILL2 $T=75980 63220 0 0 $X=75400 $Y=62860
+X108 VDD VSS FILL2 $T=75980 73660 1 0 $X=75400 $Y=67840
+X109 VDD VSS FILL2 $T=75980 73660 0 0 $X=75400 $Y=73300
+X110 VDD VSS FILL2 $T=75980 84100 1 0 $X=75400 $Y=78280
+X111 VDD VSS FILL2 $T=75980 84100 0 0 $X=75400 $Y=83740
+X112 VDD VSS FILL2 $T=79460 84100 1 0 $X=78880 $Y=78280
+X113 VDD VSS FILL2 $T=81200 84100 0 0 $X=80620 $Y=83740
+X114 VDD VSS FILL2 $T=93380 21460 1 0 $X=92800 $Y=15640
+X115 VDD VSS FILL2 $T=93380 21460 0 0 $X=92800 $Y=21100
+X116 VDD VSS FILL2 $T=93380 31900 1 0 $X=92800 $Y=26080
+X117 VDD VSS FILL2 $T=93380 31900 0 0 $X=92800 $Y=31540
+X118 VDD VSS FILL2 $T=93380 42340 1 0 $X=92800 $Y=36520
+X119 VDD VSS FILL2 $T=93380 42340 0 0 $X=92800 $Y=41980
+X120 VDD VSS FILL2 $T=93380 52780 1 0 $X=92800 $Y=46960
+X121 VDD VSS FILL2 $T=93380 52780 0 0 $X=92800 $Y=52420
+X122 VDD VSS FILL2 $T=93380 63220 1 0 $X=92800 $Y=57400
+X123 VDD VSS FILL2 $T=93380 63220 0 0 $X=92800 $Y=62860
+X124 VDD VSS FILL2 $T=93380 73660 1 0 $X=92800 $Y=67840
+X125 VDD VSS FILL2 $T=93380 73660 0 0 $X=92800 $Y=73300
+X126 VDD VSS FILL2 $T=93380 84100 0 0 $X=92800 $Y=83740
+X127 VDD VSS FILL2 $T=93960 84100 1 0 $X=93380 $Y=78280
+X128 VDD VSS FILL64 $T=19720 21460 1 0 $X=19140 $Y=15640
+X129 VDD VSS FILL64 $T=19720 42340 0 0 $X=19140 $Y=41980
+X130 VDD VSS FILL64 $T=19720 52780 1 0 $X=19140 $Y=46960
+X131 VDD VSS FILL64 $T=19720 52780 0 0 $X=19140 $Y=52420
+X132 VDD VSS FILL64 $T=19720 63220 1 0 $X=19140 $Y=57400
+X133 VDD VSS FILL64 $T=19720 63220 0 0 $X=19140 $Y=62860
+X134 VDD VSS FILL64 $T=19720 73660 1 0 $X=19140 $Y=67840
+X135 VDD VSS FILL64 $T=19720 73660 0 0 $X=19140 $Y=73300
+X136 VDD VSS FILL64 $T=19720 84100 1 0 $X=19140 $Y=78280
+X137 VDD VSS FILL32 $T=19720 42340 1 0 $X=19140 $Y=36520
+X138 VDD VSS FILL32 $T=19720 84100 0 0 $X=19140 $Y=83740
+X139 VDD VSS FILL32 $T=56840 21460 1 0 $X=56260 $Y=15640
+X140 VDD VSS FILL32 $T=56840 42340 0 0 $X=56260 $Y=41980
+X141 VDD VSS FILL32 $T=56840 52780 1 0 $X=56260 $Y=46960
+X142 VDD VSS FILL32 $T=56840 52780 0 0 $X=56260 $Y=52420
+X143 VDD VSS FILL32 $T=56840 63220 1 0 $X=56260 $Y=57400
+X144 VDD VSS FILL32 $T=56840 63220 0 0 $X=56260 $Y=62860
+X145 VDD VSS FILL32 $T=56840 73660 1 0 $X=56260 $Y=67840
+X146 VDD VSS FILL32 $T=56840 73660 0 0 $X=56260 $Y=73300
+X147 VDD VSS FILL1 $T=26680 31900 1 0 $X=26100 $Y=26080
+X148 VDD VSS FILL1 $T=32480 21460 0 0 $X=31900 $Y=21100
+X149 VDD VSS FILL1 $T=42920 21460 0 0 $X=42340 $Y=21100
+X150 VDD VSS FILL1 $T=43500 31900 1 0 $X=42920 $Y=26080
+X151 VDD VSS FILL1 $T=43500 31900 0 0 $X=42920 $Y=31540
+X152 VDD VSS FILL1 $T=49300 31900 0 0 $X=48720 $Y=31540
+X153 VDD VSS FILL1 $T=59160 31900 0 0 $X=58580 $Y=31540
+X154 VDD VSS FILL1 $T=59160 42340 1 0 $X=58580 $Y=36520
+X155 VDD VSS FILL1 $T=75400 21460 1 0 $X=74820 $Y=15640
+X156 VDD VSS FILL1 $T=75400 21460 0 0 $X=74820 $Y=21100
+X157 VDD VSS FILL1 $T=75400 42340 0 0 $X=74820 $Y=41980
+X158 VDD VSS FILL1 $T=75400 52780 1 0 $X=74820 $Y=46960
+X159 VDD VSS FILL1 $T=75400 52780 0 0 $X=74820 $Y=52420
+X160 VDD VSS FILL1 $T=75400 63220 1 0 $X=74820 $Y=57400
+X161 VDD VSS FILL1 $T=75400 63220 0 0 $X=74820 $Y=62860
+X162 VDD VSS FILL1 $T=75400 73660 1 0 $X=74820 $Y=67840
+X163 VDD VSS FILL1 $T=75400 73660 0 0 $X=74820 $Y=73300
+X164 VDD VSS FILL1 $T=75400 84100 0 0 $X=74820 $Y=83740
+X165 VDD VSS FILL1 $T=77140 84100 0 0 $X=76560 $Y=83740
+X166 VDD VSS FILL1 $T=80620 84100 1 0 $X=80040 $Y=78280
+X167 VDD VSS FILL1 $T=94540 21460 1 0 $X=93960 $Y=15640
+X168 VDD VSS FILL1 $T=94540 21460 0 0 $X=93960 $Y=21100
+X169 VDD VSS FILL1 $T=94540 31900 1 0 $X=93960 $Y=26080
+X170 VDD VSS FILL1 $T=94540 31900 0 0 $X=93960 $Y=31540
+X171 VDD VSS FILL1 $T=94540 42340 1 0 $X=93960 $Y=36520
+X172 VDD VSS FILL1 $T=94540 42340 0 0 $X=93960 $Y=41980
+X173 VDD VSS FILL1 $T=94540 52780 1 0 $X=93960 $Y=46960
+X174 VDD VSS FILL1 $T=94540 52780 0 0 $X=93960 $Y=52420
+X175 VDD VSS FILL1 $T=94540 63220 1 0 $X=93960 $Y=57400
+X176 VDD VSS FILL1 $T=94540 63220 0 0 $X=93960 $Y=62860
+X177 VDD VSS FILL1 $T=94540 73660 1 0 $X=93960 $Y=67840
+X178 VDD VSS FILL1 $T=94540 73660 0 0 $X=93960 $Y=73300
+X179 VDD VSS FILL1 $T=94540 84100 0 0 $X=93960 $Y=83740
+X180 VDD VSS FILL16 $T=19720 21460 0 0 $X=19140 $Y=21100
+X181 VDD VSS FILL16 $T=19720 31900 0 0 $X=19140 $Y=31540
+X182 VDD VSS FILL16 $T=38280 42340 1 0 $X=37700 $Y=36520
+X183 VDD VSS FILL16 $T=59160 21460 0 0 $X=58580 $Y=21100
+X184 VDD VSS FILL16 $T=66700 31900 0 0 $X=66120 $Y=31540
+X185 VDD VSS FILL16 $T=66700 42340 1 0 $X=66120 $Y=36520
+X186 VDD VSS FILL16 $T=66700 84100 1 0 $X=66120 $Y=78280
+X187 VDD VSS FILL16 $T=77140 21460 1 0 $X=76560 $Y=15640
+X188 VDD VSS FILL16 $T=77140 21460 0 0 $X=76560 $Y=21100
+X189 VDD VSS FILL16 $T=77140 31900 1 0 $X=76560 $Y=26080
+X190 VDD VSS FILL16 $T=77140 31900 0 0 $X=76560 $Y=31540
+X191 VDD VSS FILL16 $T=77140 42340 1 0 $X=76560 $Y=36520
+X192 VDD VSS FILL16 $T=77140 42340 0 0 $X=76560 $Y=41980
+X193 VDD VSS FILL16 $T=77140 52780 1 0 $X=76560 $Y=46960
+X194 VDD VSS FILL16 $T=77140 52780 0 0 $X=76560 $Y=52420
+X195 VDD VSS FILL16 $T=77140 63220 1 0 $X=76560 $Y=57400
+X196 VDD VSS FILL16 $T=77140 63220 0 0 $X=76560 $Y=62860
+X197 VDD VSS FILL16 $T=77140 73660 1 0 $X=76560 $Y=67840
+X198 VDD VSS FILL16 $T=77140 73660 0 0 $X=76560 $Y=73300
+X199 VDD VSS FILL8 $T=19720 31900 1 0 $X=19140 $Y=26080
+X200 VDD VSS FILL8 $T=29000 31900 0 0 $X=28420 $Y=31540
+X201 VDD VSS FILL8 $T=38280 21460 0 0 $X=37700 $Y=21100
+X202 VDD VSS FILL8 $T=38280 84100 0 0 $X=37700 $Y=83740
+X203 VDD VSS FILL8 $T=38860 31900 0 0 $X=38280 $Y=31540
+X204 VDD VSS FILL8 $T=56840 84100 1 0 $X=56260 $Y=78280
+X205 VDD VSS FILL8 $T=67860 31900 1 0 $X=67280 $Y=26080
+X206 VDD VSS FILL8 $T=68440 21460 0 0 $X=67860 $Y=21100
+X207 VDD VSS FILL8 $T=86420 21460 1 0 $X=85840 $Y=15640
+X208 VDD VSS FILL8 $T=86420 21460 0 0 $X=85840 $Y=21100
+X209 VDD VSS FILL8 $T=86420 31900 1 0 $X=85840 $Y=26080
+X210 VDD VSS FILL8 $T=86420 31900 0 0 $X=85840 $Y=31540
+X211 VDD VSS FILL8 $T=86420 42340 1 0 $X=85840 $Y=36520
+X212 VDD VSS FILL8 $T=86420 42340 0 0 $X=85840 $Y=41980
+X213 VDD VSS FILL8 $T=86420 52780 1 0 $X=85840 $Y=46960
+X214 VDD VSS FILL8 $T=86420 52780 0 0 $X=85840 $Y=52420
+X215 VDD VSS FILL8 $T=86420 63220 1 0 $X=85840 $Y=57400
+X216 VDD VSS FILL8 $T=86420 63220 0 0 $X=85840 $Y=62860
+X217 VDD VSS FILL8 $T=86420 73660 1 0 $X=85840 $Y=67840
+X218 VDD VSS FILL8 $T=86420 73660 0 0 $X=85840 $Y=73300
+X219 VDD VSS FILL8 $T=86420 84100 0 0 $X=85840 $Y=83740
+X220 43 VIA2X $T=31610 31030 0 0 $X=31350 $Y=30770
+X221 46 VIA2X $T=35090 27550 0 0 $X=34830 $Y=27290
+X222 rst VIA2X $T=36250 40310 0 0 $X=35990 $Y=40050
+X223 43 VIA2X $T=37990 31030 0 0 $X=37730 $Y=30770
+X224 46 VIA2X $T=41470 27550 0 0 $X=41210 $Y=27290
+X225 clk VIA2X $T=43790 28710 0 0 $X=43530 $Y=28450
+X226 8 VIA2X $T=46110 30450 0 0 $X=45850 $Y=30190
+X227 38 VIA2X $T=48430 26970 0 0 $X=48170 $Y=26710
+X228 clk VIA2X $T=51330 28710 0 0 $X=51070 $Y=28450
+X229 38 VIA2X $T=52490 26970 0 0 $X=52230 $Y=26710
+X230 2 VIA2X $T=54230 85550 0 0 $X=53970 $Y=85290
+X231 clk VIA2X $T=55970 28710 0 0 $X=55710 $Y=28450
+X232 clk VIA2X $T=57710 28710 0 0 $X=57450 $Y=28450
+X233 38 VIA2X $T=58870 26970 0 0 $X=58610 $Y=26710
+X234 12 VIA2X $T=58870 82650 0 0 $X=58610 $Y=82390
+X235 6 VIA2X $T=60610 87870 0 0 $X=60350 $Y=87610
+X236 38 VIA2X $T=62350 26970 0 0 $X=62090 $Y=26710
+X237 8 VIA2X $T=66410 30450 0 0 $X=66150 $Y=30190
+X238 6 VIA2X $T=66410 87870 0 0 $X=66150 $Y=87610
+X239 2 VIA2X $T=68730 86130 0 0 $X=68470 $Y=85870
+X240 1 VIA2X $T=69310 86710 0 0 $X=69050 $Y=86450
+X241 1 VIA2X $T=72790 86710 0 0 $X=72530 $Y=86450
+X242 24 VIA2X $T=82070 87290 0 0 $X=81810 $Y=87030
+X243 12 VIA2X $T=82650 82650 0 0 $X=82390 $Y=82390
+X244 15 VIA2X $T=83230 81490 0 0 $X=82970 $Y=81230
+X245 24 VIA2X $T=84970 87290 0 0 $X=84710 $Y=87030
+X246 15 VIA2X $T=86710 81490 0 0 $X=86450 $Y=81230
+X247 dataout[6] VIA2X $T=89030 80910 0 0 $X=88770 $Y=80650
+X248 43 VIA1V $T=28130 28130 0 0 $X=27980 $Y=27870
+X249 50 VIA1V $T=33930 23490 0 0 $X=33780 $Y=23230
+X250 45 VIA1V $T=34510 34510 0 0 $X=34360 $Y=34250
+X251 46 VIA1V $T=35090 24650 0 0 $X=34940 $Y=24390
+X252 rst VIA1V $T=35090 34510 0 0 $X=34940 $Y=34250
+X253 50 VIA1V $T=35670 24070 0 0 $X=35520 $Y=23810
+X254 rst VIA1V $T=36250 34510 0 0 $X=36100 $Y=34250
+X255 43 VIA1V $T=37990 33930 0 0 $X=37840 $Y=33670
+X256 clk VIA1V $T=43790 29290 0 0 $X=43640 $Y=29030
+X257 dataout[1] VIA1V $T=47850 87290 0 0 $X=47700 $Y=87030
+X258 34 VIA1V $T=48430 87290 0 0 $X=48280 $Y=87030
+X259 37 VIA1V $T=49590 29870 0 0 $X=49440 $Y=29610
+X260 29 VIA1V $T=50170 86130 0 0 $X=50020 $Y=85870
+X261 37 VIA1V $T=51330 29870 0 0 $X=51180 $Y=29610
+X262 37 VIA1V $T=51330 33930 0 0 $X=51180 $Y=33670
+X263 37 VIA1V $T=51330 40310 0 0 $X=51180 $Y=40050
+X264 clk VIA1V $T=55970 28710 0 0 $X=55820 $Y=28450
+X265 clk VIA1V $T=57710 24650 0 0 $X=57560 $Y=24390
+X266 dataout[0] VIA1V $T=57710 86710 0 0 $X=57560 $Y=86450
+X267 38 VIA1V $T=58870 25810 0 0 $X=58720 $Y=25550
+X268 12 VIA1V $T=58870 86710 0 0 $X=58720 $Y=86450
+X269 dataout[3] VIA1V $T=59450 86710 0 0 $X=59300 $Y=86450
+X270 30 VIA1V $T=61770 86710 0 0 $X=61620 $Y=86450
+X271 dataout[5] VIA1V $T=64670 86130 0 0 $X=64520 $Y=85870
+X272 8 VIA1V $T=66410 30450 0 0 $X=66260 $Y=30190
+X273 30 VIA1V $T=66410 36250 0 0 $X=66260 $Y=35990
+X274 11 VIA1V $T=66410 82070 0 0 $X=66260 $Y=81810
+X275 6 VIA1V $T=66410 86710 0 0 $X=66260 $Y=86450
+X276 3 VIA1V $T=68150 86130 0 0 $X=68000 $Y=85870
+X277 2 VIA1V $T=68730 86130 0 0 $X=68580 $Y=85870
+X278 1 VIA1V $T=69310 86710 0 0 $X=69160 $Y=86450
+X279 dataout[2] VIA1V $T=69890 86130 0 0 $X=69740 $Y=85870
+X280 3 VIA1V $T=70470 86130 0 0 $X=70320 $Y=85870
+X281 21 VIA1V $T=72210 87290 0 0 $X=72060 $Y=87030
+X282 1 VIA1V $T=72790 86710 0 0 $X=72640 $Y=86450
+X283 dataout[7] VIA1V $T=74530 86710 0 0 $X=74380 $Y=86450
+X284 dataout[7] VIA1V $T=79170 87290 0 0 $X=79020 $Y=87030
+X285 21 VIA1V $T=80330 86710 0 0 $X=80180 $Y=86450
+X286 12 VIA1V $T=82650 81490 0 0 $X=82500 $Y=81230
+X287 15 VIA1V $T=83230 81490 0 0 $X=83080 $Y=81230
+X288 dataout[4] VIA1V $T=83230 86710 0 0 $X=83080 $Y=86450
+X289 dataout[4] VIA1V $T=83810 81490 0 0 $X=83660 $Y=81230
+X290 22 VIA1V $T=84390 86710 0 0 $X=84240 $Y=86450
+X291 22 VIA1V $T=84970 81490 0 0 $X=84820 $Y=81230
+X292 24 VIA1V $T=84970 86710 0 0 $X=84820 $Y=86450
+X293 dataout[6] VIA1V $T=89030 80910 0 0 $X=88880 $Y=80650
+X294 43 VIA1X $T=28130 23490 0 0 $X=27870 $Y=23230
+X295 43 VIA1X $T=31610 23490 0 0 $X=31350 $Y=23230
+X296 45 VIA1X $T=34510 31030 0 0 $X=34250 $Y=30770
+X297 46 VIA1X $T=41470 29290 0 0 $X=41210 $Y=29030
+X298 8 VIA1X $T=44950 23490 0 0 $X=44690 $Y=23230
+X299 34 VIA1X $T=44950 30450 0 0 $X=44690 $Y=30190
+X300 8 VIA1X $T=46110 33930 0 0 $X=45850 $Y=33670
+X301 38 VIA1X $T=48430 24070 0 0 $X=48170 $Y=23810
+X302 38 VIA1X $T=48430 28710 0 0 $X=48170 $Y=28450
+X303 37 VIA1X $T=51330 43210 0 0 $X=51070 $Y=42950
+X304 38 VIA1X $T=52490 35090 0 0 $X=52230 $Y=34830
+X305 38 VIA1X $T=52490 39150 0 0 $X=52230 $Y=38890
+X306 29 VIA1X $T=52490 86710 0 0 $X=52230 $Y=86450
+X307 dataout[3] VIA1X $T=53070 86130 0 0 $X=52810 $Y=85870
+X308 dataout[3] VIA1X $T=53070 90190 0 0 $X=52810 $Y=89930
+X309 2 VIA1X $T=54230 85550 0 0 $X=53970 $Y=85290
+X310 12 VIA1X $T=55390 82070 0 0 $X=55130 $Y=81810
+X311 12 VIA1X $T=55390 85550 0 0 $X=55130 $Y=85290
+X312 36 VIA1X $T=55970 40890 0 0 $X=55710 $Y=40630
+X313 36 VIA1X $T=55970 44950 0 0 $X=55710 $Y=44690
+X314 dataout[0] VIA1X $T=55970 86710 0 0 $X=55710 $Y=86450
+X315 12 VIA1X $T=58870 82650 0 0 $X=58610 $Y=82390
+X316 dataout[3] VIA1X $T=59450 90190 0 0 $X=59190 $Y=89930
+X317 37 VIA1X $T=60610 34410 0 0 $X=60350 $Y=34150
+X318 37 VIA1X $T=60610 39870 0 0 $X=60350 $Y=39610
+X319 37 VIA1X $T=60610 43210 0 0 $X=60350 $Y=42950
+X320 6 VIA1X $T=60610 87870 0 0 $X=60350 $Y=87610
+X321 38 VIA1X $T=62350 35090 0 0 $X=62090 $Y=34830
+X322 38 VIA1X $T=62350 39150 0 0 $X=62090 $Y=38890
+X323 11 VIA1X $T=65830 40890 0 0 $X=65570 $Y=40630
+X324 21 VIA1X $T=72210 90190 0 0 $X=71950 $Y=89930
+X325 21 VIA1X $T=80330 90190 0 0 $X=80070 $Y=89930
+X326 24 VIA1X $T=82070 87290 0 0 $X=81810 $Y=87030
+X327 15 VIA1X $T=86710 87290 0 0 $X=86450 $Y=87030
+X328 36 VIA1X $T=91350 44950 0 0 $X=91090 $Y=44690
+X329 36 VIA1X $T=91930 81490 0 0 $X=91670 $Y=81230
+X330 VSS controller1_VIA0 $T=5820 5820 0 0 $X=4020 $Y=4020
+X331 VSS controller1_VIA0 $T=5820 99740 0 0 $X=4020 $Y=97940
+X332 VDD controller1_VIA0 $T=10420 10420 0 0 $X=8620 $Y=8620
+X333 VDD controller1_VIA0 $T=10420 95140 0 0 $X=8620 $Y=93340
+X334 VDD controller1_VIA0 $T=103260 10420 0 0 $X=101460 $Y=8620
+X335 VDD controller1_VIA0 $T=103260 95140 0 0 $X=101460 $Y=93340
+X336 VSS controller1_VIA0 $T=107860 5820 0 0 $X=106060 $Y=4020
+X337 VSS controller1_VIA0 $T=107860 99740 0 0 $X=106060 $Y=97940
+X338 VSS controller1_VIA1 $T=5820 22640 0 0 $X=4020 $Y=20840
+X339 VSS controller1_VIA1 $T=5820 87520 0 0 $X=4020 $Y=85720
+X340 VDD controller1_VIA1 $T=10420 18040 0 0 $X=8620 $Y=16240
+X341 VDD controller1_VIA1 $T=10420 82920 0 0 $X=8620 $Y=81120
+X342 VDD controller1_VIA1 $T=18040 10420 0 0 $X=16240 $Y=8620
+X343 VDD controller1_VIA1 $T=18040 18040 0 0 $X=16240 $Y=16240
+X344 VDD controller1_VIA1 $T=18040 82920 0 0 $X=16240 $Y=81120
+X345 VDD controller1_VIA1 $T=18040 95140 0 0 $X=16240 $Y=93340
+X346 VSS controller1_VIA1 $T=22640 5820 0 0 $X=20840 $Y=4020
+X347 VSS controller1_VIA1 $T=22640 22640 0 0 $X=20840 $Y=20840
+X348 VSS controller1_VIA1 $T=22640 87520 0 0 $X=20840 $Y=85720
+X349 VSS controller1_VIA1 $T=22640 99740 0 0 $X=20840 $Y=97940
+X350 VDD controller1_VIA1 $T=91040 10420 0 0 $X=89240 $Y=8620
+X351 VDD controller1_VIA1 $T=91040 18040 0 0 $X=89240 $Y=16240
+X352 VDD controller1_VIA1 $T=91040 82920 0 0 $X=89240 $Y=81120
+X353 VDD controller1_VIA1 $T=91040 95140 0 0 $X=89240 $Y=93340
+X354 VSS controller1_VIA1 $T=95640 5820 0 0 $X=93840 $Y=4020
+X355 VSS controller1_VIA1 $T=95640 22640 0 0 $X=93840 $Y=20840
+X356 VSS controller1_VIA1 $T=95640 87520 0 0 $X=93840 $Y=85720
+X357 VSS controller1_VIA1 $T=95640 99740 0 0 $X=93840 $Y=97940
+X358 VDD controller1_VIA1 $T=103260 18040 0 0 $X=101460 $Y=16240
+X359 VDD controller1_VIA1 $T=103260 82920 0 0 $X=101460 $Y=81120
+X360 VSS controller1_VIA1 $T=107860 22640 0 0 $X=106060 $Y=20840
+X361 VSS controller1_VIA1 $T=107860 87520 0 0 $X=106060 $Y=85720
+X362 VSS controller1_VIA2 $T=5820 21460 0 0 $X=4020 $Y=21000
+X363 VSS controller1_VIA2 $T=5820 31900 0 0 $X=4020 $Y=31440
+X364 VSS controller1_VIA2 $T=5820 42340 0 0 $X=4020 $Y=41880
+X365 VSS controller1_VIA2 $T=5820 52780 0 0 $X=4020 $Y=52320
+X366 VSS controller1_VIA2 $T=5820 63220 0 0 $X=4020 $Y=62760
+X367 VSS controller1_VIA2 $T=5820 73660 0 0 $X=4020 $Y=73200
+X368 VSS controller1_VIA2 $T=5820 84100 0 0 $X=4020 $Y=83640
+X369 VDD controller1_VIA2 $T=10420 16240 0 0 $X=8620 $Y=15780
+X370 VDD controller1_VIA2 $T=10420 26680 0 0 $X=8620 $Y=26220
+X371 VDD controller1_VIA2 $T=10420 37120 0 0 $X=8620 $Y=36660
+X372 VDD controller1_VIA2 $T=10420 47560 0 0 $X=8620 $Y=47100
+X373 VDD controller1_VIA2 $T=10420 58000 0 0 $X=8620 $Y=57540
+X374 VDD controller1_VIA2 $T=10420 68440 0 0 $X=8620 $Y=67980
+X375 VDD controller1_VIA2 $T=10420 78880 0 0 $X=8620 $Y=78420
+X376 VDD controller1_VIA2 $T=10420 89320 0 0 $X=8620 $Y=88860
+X377 VDD controller1_VIA2 $T=103260 16240 0 0 $X=101460 $Y=15780
+X378 VDD controller1_VIA2 $T=103260 26680 0 0 $X=101460 $Y=26220
+X379 VDD controller1_VIA2 $T=103260 37120 0 0 $X=101460 $Y=36660
+X380 VDD controller1_VIA2 $T=103260 47560 0 0 $X=101460 $Y=47100
+X381 VDD controller1_VIA2 $T=103260 58000 0 0 $X=101460 $Y=57540
+X382 VDD controller1_VIA2 $T=103260 68440 0 0 $X=101460 $Y=67980
+X383 VDD controller1_VIA2 $T=103260 78880 0 0 $X=101460 $Y=78420
+X384 VDD controller1_VIA2 $T=103260 89320 0 0 $X=101460 $Y=88860
+X385 VSS controller1_VIA2 $T=107860 21460 0 0 $X=106060 $Y=21000
+X386 VSS controller1_VIA2 $T=107860 31900 0 0 $X=106060 $Y=31440
+X387 VSS controller1_VIA2 $T=107860 42340 0 0 $X=106060 $Y=41880
+X388 VSS controller1_VIA2 $T=107860 52780 0 0 $X=106060 $Y=52320
+X389 VSS controller1_VIA2 $T=107860 63220 0 0 $X=106060 $Y=62760
+X390 VSS controller1_VIA2 $T=107860 73660 0 0 $X=106060 $Y=73200
+X391 VSS controller1_VIA2 $T=107860 84100 0 0 $X=106060 $Y=83640
+X392 VSS controller1_VIA3 $T=5820 21460 0 0 $X=4020 $Y=21100
+X393 VSS controller1_VIA3 $T=5820 31900 0 0 $X=4020 $Y=31540
+X394 VSS controller1_VIA3 $T=5820 42340 0 0 $X=4020 $Y=41980
+X395 VSS controller1_VIA3 $T=5820 52780 0 0 $X=4020 $Y=52420
+X396 VSS controller1_VIA3 $T=5820 63220 0 0 $X=4020 $Y=62860
+X397 VSS controller1_VIA3 $T=5820 73660 0 0 $X=4020 $Y=73300
+X398 VSS controller1_VIA3 $T=5820 84100 0 0 $X=4020 $Y=83740
+X399 VDD controller1_VIA3 $T=10420 16240 0 0 $X=8620 $Y=15880
+X400 VDD controller1_VIA3 $T=10420 26680 0 0 $X=8620 $Y=26320
+X401 VDD controller1_VIA3 $T=10420 37120 0 0 $X=8620 $Y=36760
+X402 VDD controller1_VIA3 $T=10420 47560 0 0 $X=8620 $Y=47200
+X403 VDD controller1_VIA3 $T=10420 58000 0 0 $X=8620 $Y=57640
+X404 VDD controller1_VIA3 $T=10420 68440 0 0 $X=8620 $Y=68080
+X405 VDD controller1_VIA3 $T=10420 78880 0 0 $X=8620 $Y=78520
+X406 VDD controller1_VIA3 $T=10420 89320 0 0 $X=8620 $Y=88960
+X407 VDD controller1_VIA3 $T=103260 16240 0 0 $X=101460 $Y=15880
+X408 VDD controller1_VIA3 $T=103260 26680 0 0 $X=101460 $Y=26320
+X409 VDD controller1_VIA3 $T=103260 37120 0 0 $X=101460 $Y=36760
+X410 VDD controller1_VIA3 $T=103260 47560 0 0 $X=101460 $Y=47200
+X411 VDD controller1_VIA3 $T=103260 58000 0 0 $X=101460 $Y=57640
+X412 VDD controller1_VIA3 $T=103260 68440 0 0 $X=101460 $Y=68080
+X413 VDD controller1_VIA3 $T=103260 78880 0 0 $X=101460 $Y=78520
+X414 VDD controller1_VIA3 $T=103260 89320 0 0 $X=101460 $Y=88960
+X415 VSS controller1_VIA3 $T=107860 21460 0 0 $X=106060 $Y=21100
+X416 VSS controller1_VIA3 $T=107860 31900 0 0 $X=106060 $Y=31540
+X417 VSS controller1_VIA3 $T=107860 42340 0 0 $X=106060 $Y=41980
+X418 VSS controller1_VIA3 $T=107860 52780 0 0 $X=106060 $Y=52420
+X419 VSS controller1_VIA3 $T=107860 63220 0 0 $X=106060 $Y=62860
+X420 VSS controller1_VIA3 $T=107860 73660 0 0 $X=106060 $Y=73300
+X421 VSS controller1_VIA3 $T=107860 84100 0 0 $X=106060 $Y=83740
+X422 VSS controller1_VIA4 $T=5820 21460 0 0 $X=4020 $Y=21100
+X423 VSS controller1_VIA4 $T=5820 31900 0 0 $X=4020 $Y=31540
+X424 VSS controller1_VIA4 $T=5820 42340 0 0 $X=4020 $Y=41980
+X425 VSS controller1_VIA4 $T=5820 52780 0 0 $X=4020 $Y=52420
+X426 VSS controller1_VIA4 $T=5820 63220 0 0 $X=4020 $Y=62860
+X427 VSS controller1_VIA4 $T=5820 73660 0 0 $X=4020 $Y=73300
+X428 VSS controller1_VIA4 $T=5820 84100 0 0 $X=4020 $Y=83740
+X429 VDD controller1_VIA4 $T=10420 16240 0 0 $X=8620 $Y=15880
+X430 VDD controller1_VIA4 $T=10420 26680 0 0 $X=8620 $Y=26320
+X431 VDD controller1_VIA4 $T=10420 37120 0 0 $X=8620 $Y=36760
+X432 VDD controller1_VIA4 $T=10420 47560 0 0 $X=8620 $Y=47200
+X433 VDD controller1_VIA4 $T=10420 58000 0 0 $X=8620 $Y=57640
+X434 VDD controller1_VIA4 $T=10420 68440 0 0 $X=8620 $Y=68080
+X435 VDD controller1_VIA4 $T=10420 78880 0 0 $X=8620 $Y=78520
+X436 VDD controller1_VIA4 $T=10420 89320 0 0 $X=8620 $Y=88960
+X437 VDD controller1_VIA4 $T=103260 16240 0 0 $X=101460 $Y=15880
+X438 VDD controller1_VIA4 $T=103260 26680 0 0 $X=101460 $Y=26320
+X439 VDD controller1_VIA4 $T=103260 37120 0 0 $X=101460 $Y=36760
+X440 VDD controller1_VIA4 $T=103260 47560 0 0 $X=101460 $Y=47200
+X441 VDD controller1_VIA4 $T=103260 58000 0 0 $X=101460 $Y=57640
+X442 VDD controller1_VIA4 $T=103260 68440 0 0 $X=101460 $Y=68080
+X443 VDD controller1_VIA4 $T=103260 78880 0 0 $X=101460 $Y=78520
+X444 VDD controller1_VIA4 $T=103260 89320 0 0 $X=101460 $Y=88960
+X445 VSS controller1_VIA4 $T=107860 21460 0 0 $X=106060 $Y=21100
+X446 VSS controller1_VIA4 $T=107860 31900 0 0 $X=106060 $Y=31540
+X447 VSS controller1_VIA4 $T=107860 42340 0 0 $X=106060 $Y=41980
+X448 VSS controller1_VIA4 $T=107860 52780 0 0 $X=106060 $Y=52420
+X449 VSS controller1_VIA4 $T=107860 63220 0 0 $X=106060 $Y=62860
+X450 VSS controller1_VIA4 $T=107860 73660 0 0 $X=106060 $Y=73300
+X451 VSS controller1_VIA4 $T=107860 84100 0 0 $X=106060 $Y=83740
+X452 VSS controller1_VIA5 $T=5820 21460 0 0 $X=4020 $Y=21100
+X453 VSS controller1_VIA5 $T=5820 31900 0 0 $X=4020 $Y=31540
+X454 VSS controller1_VIA5 $T=5820 42340 0 0 $X=4020 $Y=41980
+X455 VSS controller1_VIA5 $T=5820 52780 0 0 $X=4020 $Y=52420
+X456 VSS controller1_VIA5 $T=5820 63220 0 0 $X=4020 $Y=62860
+X457 VSS controller1_VIA5 $T=5820 73660 0 0 $X=4020 $Y=73300
+X458 VSS controller1_VIA5 $T=5820 84100 0 0 $X=4020 $Y=83740
+X459 VDD controller1_VIA5 $T=10420 16240 0 0 $X=8620 $Y=15880
+X460 VDD controller1_VIA5 $T=10420 26680 0 0 $X=8620 $Y=26320
+X461 VDD controller1_VIA5 $T=10420 37120 0 0 $X=8620 $Y=36760
+X462 VDD controller1_VIA5 $T=10420 47560 0 0 $X=8620 $Y=47200
+X463 VDD controller1_VIA5 $T=10420 58000 0 0 $X=8620 $Y=57640
+X464 VDD controller1_VIA5 $T=10420 68440 0 0 $X=8620 $Y=68080
+X465 VDD controller1_VIA5 $T=10420 78880 0 0 $X=8620 $Y=78520
+X466 VDD controller1_VIA5 $T=10420 89320 0 0 $X=8620 $Y=88960
+X467 VDD controller1_VIA5 $T=103260 16240 0 0 $X=101460 $Y=15880
+X468 VDD controller1_VIA5 $T=103260 26680 0 0 $X=101460 $Y=26320
+X469 VDD controller1_VIA5 $T=103260 37120 0 0 $X=101460 $Y=36760
+X470 VDD controller1_VIA5 $T=103260 47560 0 0 $X=101460 $Y=47200
+X471 VDD controller1_VIA5 $T=103260 58000 0 0 $X=101460 $Y=57640
+X472 VDD controller1_VIA5 $T=103260 68440 0 0 $X=101460 $Y=68080
+X473 VDD controller1_VIA5 $T=103260 78880 0 0 $X=101460 $Y=78520
+X474 VDD controller1_VIA5 $T=103260 89320 0 0 $X=101460 $Y=88960
+X475 VSS controller1_VIA5 $T=107860 21460 0 0 $X=106060 $Y=21100
+X476 VSS controller1_VIA5 $T=107860 31900 0 0 $X=106060 $Y=31540
+X477 VSS controller1_VIA5 $T=107860 42340 0 0 $X=106060 $Y=41980
+X478 VSS controller1_VIA5 $T=107860 52780 0 0 $X=106060 $Y=52420
+X479 VSS controller1_VIA5 $T=107860 63220 0 0 $X=106060 $Y=62860
+X480 VSS controller1_VIA5 $T=107860 73660 0 0 $X=106060 $Y=73300
+X481 VSS controller1_VIA5 $T=107860 84100 0 0 $X=106060 $Y=83740
+X482 VSS controller1_VIA6 $T=5820 21460 0 0 $X=4020 $Y=21100
+X483 VSS controller1_VIA6 $T=5820 31900 0 0 $X=4020 $Y=31540
+X484 VSS controller1_VIA6 $T=5820 42340 0 0 $X=4020 $Y=41980
+X485 VSS controller1_VIA6 $T=5820 52780 0 0 $X=4020 $Y=52420
+X486 VSS controller1_VIA6 $T=5820 63220 0 0 $X=4020 $Y=62860
+X487 VSS controller1_VIA6 $T=5820 73660 0 0 $X=4020 $Y=73300
+X488 VSS controller1_VIA6 $T=5820 84100 0 0 $X=4020 $Y=83740
+X489 VDD controller1_VIA6 $T=10420 16240 0 0 $X=8620 $Y=15880
+X490 VDD controller1_VIA6 $T=10420 26680 0 0 $X=8620 $Y=26320
+X491 VDD controller1_VIA6 $T=10420 37120 0 0 $X=8620 $Y=36760
+X492 VDD controller1_VIA6 $T=10420 47560 0 0 $X=8620 $Y=47200
+X493 VDD controller1_VIA6 $T=10420 58000 0 0 $X=8620 $Y=57640
+X494 VDD controller1_VIA6 $T=10420 68440 0 0 $X=8620 $Y=68080
+X495 VDD controller1_VIA6 $T=10420 78880 0 0 $X=8620 $Y=78520
+X496 VDD controller1_VIA6 $T=10420 89320 0 0 $X=8620 $Y=88960
+X497 VDD controller1_VIA6 $T=103260 16240 0 0 $X=101460 $Y=15880
+X498 VDD controller1_VIA6 $T=103260 26680 0 0 $X=101460 $Y=26320
+X499 VDD controller1_VIA6 $T=103260 37120 0 0 $X=101460 $Y=36760
+X500 VDD controller1_VIA6 $T=103260 47560 0 0 $X=101460 $Y=47200
+X501 VDD controller1_VIA6 $T=103260 58000 0 0 $X=101460 $Y=57640
+X502 VDD controller1_VIA6 $T=103260 68440 0 0 $X=101460 $Y=68080
+X503 VDD controller1_VIA6 $T=103260 78880 0 0 $X=101460 $Y=78520
+X504 VDD controller1_VIA6 $T=103260 89320 0 0 $X=101460 $Y=88960
+X505 VSS controller1_VIA6 $T=107860 21460 0 0 $X=106060 $Y=21100
+X506 VSS controller1_VIA6 $T=107860 31900 0 0 $X=106060 $Y=31540
+X507 VSS controller1_VIA6 $T=107860 42340 0 0 $X=106060 $Y=41980
+X508 VSS controller1_VIA6 $T=107860 52780 0 0 $X=106060 $Y=52420
+X509 VSS controller1_VIA6 $T=107860 63220 0 0 $X=106060 $Y=62860
+X510 VSS controller1_VIA6 $T=107860 73660 0 0 $X=106060 $Y=73300
+X511 VSS controller1_VIA6 $T=107860 84100 0 0 $X=106060 $Y=83740
+X512 VSS controller1_VIA7 $T=5820 21460 0 0 $X=4020 $Y=21100
+X513 VSS controller1_VIA7 $T=5820 31900 0 0 $X=4020 $Y=31540
+X514 VSS controller1_VIA7 $T=5820 42340 0 0 $X=4020 $Y=41980
+X515 VSS controller1_VIA7 $T=5820 52780 0 0 $X=4020 $Y=52420
+X516 VSS controller1_VIA7 $T=5820 63220 0 0 $X=4020 $Y=62860
+X517 VSS controller1_VIA7 $T=5820 73660 0 0 $X=4020 $Y=73300
+X518 VSS controller1_VIA7 $T=5820 84100 0 0 $X=4020 $Y=83740
+X519 VDD controller1_VIA7 $T=10420 16240 0 0 $X=8620 $Y=15880
+X520 VDD controller1_VIA7 $T=10420 26680 0 0 $X=8620 $Y=26320
+X521 VDD controller1_VIA7 $T=10420 37120 0 0 $X=8620 $Y=36760
+X522 VDD controller1_VIA7 $T=10420 47560 0 0 $X=8620 $Y=47200
+X523 VDD controller1_VIA7 $T=10420 58000 0 0 $X=8620 $Y=57640
+X524 VDD controller1_VIA7 $T=10420 68440 0 0 $X=8620 $Y=68080
+X525 VDD controller1_VIA7 $T=10420 78880 0 0 $X=8620 $Y=78520
+X526 VDD controller1_VIA7 $T=10420 89320 0 0 $X=8620 $Y=88960
+X527 VDD controller1_VIA7 $T=103260 16240 0 0 $X=101460 $Y=15880
+X528 VDD controller1_VIA7 $T=103260 26680 0 0 $X=101460 $Y=26320
+X529 VDD controller1_VIA7 $T=103260 37120 0 0 $X=101460 $Y=36760
+X530 VDD controller1_VIA7 $T=103260 47560 0 0 $X=101460 $Y=47200
+X531 VDD controller1_VIA7 $T=103260 58000 0 0 $X=101460 $Y=57640
+X532 VDD controller1_VIA7 $T=103260 68440 0 0 $X=101460 $Y=68080
+X533 VDD controller1_VIA7 $T=103260 78880 0 0 $X=101460 $Y=78520
+X534 VDD controller1_VIA7 $T=103260 89320 0 0 $X=101460 $Y=88960
+X535 VSS controller1_VIA7 $T=107860 21460 0 0 $X=106060 $Y=21100
+X536 VSS controller1_VIA7 $T=107860 31900 0 0 $X=106060 $Y=31540
+X537 VSS controller1_VIA7 $T=107860 42340 0 0 $X=106060 $Y=41980
+X538 VSS controller1_VIA7 $T=107860 52780 0 0 $X=106060 $Y=52420
+X539 VSS controller1_VIA7 $T=107860 63220 0 0 $X=106060 $Y=62860
+X540 VSS controller1_VIA7 $T=107860 73660 0 0 $X=106060 $Y=73300
+X541 VSS controller1_VIA7 $T=107860 84100 0 0 $X=106060 $Y=83740
+X542 VSS controller1_VIA8 $T=5820 21460 0 0 $X=4020 $Y=21100
+X543 VSS controller1_VIA8 $T=5820 31900 0 0 $X=4020 $Y=31540
+X544 VSS controller1_VIA8 $T=5820 42340 0 0 $X=4020 $Y=41980
+X545 VSS controller1_VIA8 $T=5820 52780 0 0 $X=4020 $Y=52420
+X546 VSS controller1_VIA8 $T=5820 63220 0 0 $X=4020 $Y=62860
+X547 VSS controller1_VIA8 $T=5820 73660 0 0 $X=4020 $Y=73300
+X548 VSS controller1_VIA8 $T=5820 84100 0 0 $X=4020 $Y=83740
+X549 VDD controller1_VIA8 $T=10420 16240 0 0 $X=8620 $Y=15880
+X550 VDD controller1_VIA8 $T=10420 26680 0 0 $X=8620 $Y=26320
+X551 VDD controller1_VIA8 $T=10420 37120 0 0 $X=8620 $Y=36760
+X552 VDD controller1_VIA8 $T=10420 47560 0 0 $X=8620 $Y=47200
+X553 VDD controller1_VIA8 $T=10420 58000 0 0 $X=8620 $Y=57640
+X554 VDD controller1_VIA8 $T=10420 68440 0 0 $X=8620 $Y=68080
+X555 VDD controller1_VIA8 $T=10420 78880 0 0 $X=8620 $Y=78520
+X556 VDD controller1_VIA8 $T=10420 89320 0 0 $X=8620 $Y=88960
+X557 VDD controller1_VIA8 $T=103260 16240 0 0 $X=101460 $Y=15880
+X558 VDD controller1_VIA8 $T=103260 26680 0 0 $X=101460 $Y=26320
+X559 VDD controller1_VIA8 $T=103260 37120 0 0 $X=101460 $Y=36760
+X560 VDD controller1_VIA8 $T=103260 47560 0 0 $X=101460 $Y=47200
+X561 VDD controller1_VIA8 $T=103260 58000 0 0 $X=101460 $Y=57640
+X562 VDD controller1_VIA8 $T=103260 68440 0 0 $X=101460 $Y=68080
+X563 VDD controller1_VIA8 $T=103260 78880 0 0 $X=101460 $Y=78520
+X564 VDD controller1_VIA8 $T=103260 89320 0 0 $X=101460 $Y=88960
+X565 VSS controller1_VIA8 $T=107860 21460 0 0 $X=106060 $Y=21100
+X566 VSS controller1_VIA8 $T=107860 31900 0 0 $X=106060 $Y=31540
+X567 VSS controller1_VIA8 $T=107860 42340 0 0 $X=106060 $Y=41980
+X568 VSS controller1_VIA8 $T=107860 52780 0 0 $X=106060 $Y=52420
+X569 VSS controller1_VIA8 $T=107860 63220 0 0 $X=106060 $Y=62860
+X570 VSS controller1_VIA8 $T=107860 73660 0 0 $X=106060 $Y=73300
+X571 VSS controller1_VIA8 $T=107860 84100 0 0 $X=106060 $Y=83740
+.ends controller1

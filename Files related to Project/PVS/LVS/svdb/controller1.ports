@@ -1,0 +1,28 @@
+# SVDB: Port Table (ports)
+# SVDB: Layout Primary controller1
+dataout[2] 13 dataout[2] 66990 104985 metal2_conn
+dataout[2] 13 dataout[2] 66990 104985 metal2_conn
+dataout[0] 26 dataout[0] 57710 104985 metal2_conn
+dataout[0] 26 dataout[0] 57710 104985 metal2_conn
+dataout[3] 27 dataout[3] 60030 104985 metal2_conn
+dataout[3] 27 dataout[3] 60030 104985 metal2_conn
+dataout[4] 14 dataout[4] 84390 104985 metal2_conn
+dataout[4] 14 dataout[4] 84390 104985 metal2_conn
+clk 41 clk 51330 575 metal2_conn
+clk 41 clk 51330 575 metal2_conn
+VDD 4 VDD 8620 8620 metal9_conn
+VDD 4 VDD 8620 8620 metal9_conn
+dataout[7] 18 dataout[7] 72790 104985 metal2_conn
+dataout[7] 18 dataout[7] 72790 104985 metal2_conn
+rst 44 rst 575 40310 metal3_conn
+rst 44 rst 575 40310 metal3_conn
+VSS 5 VSS 4020 4020 metal9_conn
+VSS 5 VSS 4020 4020 metal9_conn
+dataout[1] 33 dataout[1] 48430 104985 metal2_conn
+dataout[1] 33 dataout[1] 48430 104985 metal2_conn
+dataout[5] 9 dataout[5] 65250 104985 metal2_conn
+dataout[5] 9 dataout[5] 65250 104985 metal2_conn
+dataout[6] 35 dataout[6] 113105 80910 metal3_conn
+dataout[6] 35 dataout[6] 113105 80910 metal3_conn
+status 51 status 87870 104985 metal2_conn
+status 51 status 87870 104985 metal2_conn

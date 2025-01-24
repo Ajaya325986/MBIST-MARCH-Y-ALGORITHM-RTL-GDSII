@@ -1,0 +1,17 @@
+
+/home/install/PVS222/tools.lnx86/pvs/bin/64bit/edbToEcdb Output Summary
+========================================================================
+
+Delete EDB      : N
+EDB Library dir : controller1_26376.db
+ECDB dir        : ./
+Top Cell        : controller1
+CDL netlist     : svdb/controller1.net
+Layer map file  : svdb/controller1.ecdbmap
+Text map file   : svdb/controller1.ports
+Dependency map  : controller1.lmap.perc
+Lvs file        : svdb/controller1.lvsfile
+Float net file  : .controller1.info.softchk
+threads         : 32
+debug           : 0
+Source Library  : controller1_26376
