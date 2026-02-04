@@ -1,7 +1,7 @@
 # MBIST Controller: March Y Algorithm (RTL to GDSII)
 
 ![Status](https://img.shields.io/badge/Status-Routed-success)
-![Technology](https://img.shields.io/badge/Tech-ASIC%2090nm%2F130nm-blue)
+![Technology](https://img.shields.io/badge/Tech-ASIC%2090nm-blue)
 ![Area](https://img.shields.io/badge/Area-1127.78%20um%C2%B2-green)
 ![Density](https://img.shields.io/badge/Core%20Density-69.9%25-orange)
 
